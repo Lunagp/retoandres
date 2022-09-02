@@ -1,0 +1,609 @@
+<html lang="es" class="js"><head>
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://tiendacepeda.com/xmlrpc.php">
+
+	<script async="" src="https://chimpstatic.com/mcjs-connected/js/users/77795a9735b3e20344dda50ec/756661c0487d8a15741ec11c1.js"></script><script src="https://connect.facebook.net/signals/config/690085025016139?v=2.9.79&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.79" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://tiendacepeda.com';var et_post_id='18';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Tienda Cepeda | Tienda Cepeda</title>
+<meta name="robots" content="max-image-preview:large">
+<script>window._wca = window._wca || [];</script>
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//secure.gravatar.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<link rel="alternate" type="application/rss+xml" title="Tienda Cepeda » Feed" href="https://tiendacepeda.com/index.php/feed/">
+<link rel="alternate" type="application/rss+xml" title="Tienda Cepeda » Feed de los comentarios" href="https://tiendacepeda.com/index.php/comments/feed/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tiendacepeda.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="https://tiendacepeda.com/wp-includes/js/wp-emoji-release.min.js?ver=6.0.2" type="text/javascript" defer=""></script>
+<meta content="Divi v.3.12.2" name="generator"><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://tiendacepeda.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="wc-block-vendors-style-css" href="https://tiendacepeda.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="wc-block-style-css" href="https://tiendacepeda.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.6.0" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="woocommerce-layout-css" href="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.7.4" type="text/css" media="all">
+<style id="woocommerce-layout-inline-css" type="text/css">
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.7.4" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.7.4" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="divi-style-css" href="https://tiendacepeda.com/wp-content/themes/Divi-3/style.css?ver=3.12.2" type="text/css" media="all">
+<link rel="stylesheet" id="et-builder-googlefonts-cached-css" href="https://fonts.googleapis.com/css?family=Source+Code+Pro%3A200%2C300%2Cregular%2C500%2C600%2C700%2C900&amp;ver=6.0.2#038;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://tiendacepeda.com/wp-includes/css/dashicons.min.css?ver=6.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://tiendacepeda.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://tiendacepeda.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script async="" defer="" type="text/javascript" src="https://stats.wp.com/s-202235.js" id="woocommerce-analytics-js"></script>
+<link rel="https://api.w.org/" href="https://tiendacepeda.com/index.php/wp-json/"><link rel="alternate" type="application/json" href="https://tiendacepeda.com/index.php/wp-json/wp/v2/pages/18"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tiendacepeda.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tiendacepeda.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.2">
+<meta name="generator" content="WooCommerce 4.7.4">
+<link rel="canonical" href="https://tiendacepeda.com/">
+<link rel="shortlink" href="https://wp.me/Paismt-i">
+<link rel="alternate" type="application/json+oembed" href="https://tiendacepeda.com/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftiendacepeda.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://tiendacepeda.com/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftiendacepeda.com%2F&amp;format=xml">
+<style type="text/css">img#wpstats{display:none}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+				<script type="text/javascript">
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+					n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+					document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			</script>
+			<!-- WooCommerce Facebook Integration Begin -->
+			<script type="text/javascript">
+
+				fbq('init', '690085025016139', {}, {
+    "agent": "woocommerce-4.7.4-2.0.3"
+});
+
+				fbq( 'track', 'PageView', {
+    "source": "woocommerce",
+    "version": "4.7.4",
+    "pluginVersion": "2.0.3"
+} );
+
+				document.addEventListener( 'DOMContentLoaded', function() {
+					jQuery && jQuery( function( $ ) {
+						// insert placeholder for events injected when a product is added to the cart through AJAX
+						$( document.body ).append( '<div class=\"wc-facebook-pixel-event-placeholder\"></div>' );
+					} );
+				}, false );
+
+			</script>
+			<!-- WooCommerce Facebook Integration End -->
+			<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #100806; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Tienda Cepeda">
+<meta property="og:description" content="Tienda Cepeda">
+<meta property="og:url" content="https://tiendacepeda.com/">
+<meta property="og:site_name" content="Tienda Cepeda">
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:text:title" content="Tienda">
+<meta name="twitter:card" content="summary">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous"><link rel="stylesheet" id="et-core-unified-cached-inline-styles" href="https://tiendacepeda.com/wp-content/cache/et/18/et-core-unified-16611035410949.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)"><style>[data-columns]::before{visibility:hidden;position:absolute;font-size:1px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+<body class="home page-template-default page page-id-18 custom-background theme-Divi-3 woocommerce-js et_color_scheme_orange et_button_no_icon et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_hide_fixed_logo et_cover_background et_pb_no_sidebar_vertical_divider et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_split et_pb_pagebuilder_layout et_smooth_scroll et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css chrome" style="overflow-x: hidden;">
+	<div id="page-container" style="padding-top: 78px; overflow-y: hidden; margin-top: -25px;" class="et-animated-content">
+
+	
+	
+			<header id="main-header" data-height-onload="78" data-height-loaded="true" data-fixed-height-onload="54" style="top: 0px;" class="et-fixed-header">
+			<div class="container clearfix et_menu_container">
+							
+							<div id="et-top-navigation" data-height="63" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="https://andrescepeda.com.co/welcome">Home</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="https://andrescepeda.com.co/#band-section">Bio</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://andrescepeda.com.co/#tour-section">Eventos</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289"><a href="https://andrescepeda.com.co/#news-section">Noticias</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290"><a href="https://andrescepeda.com.co/#music-section">Música</a></li>
+<li id="menu-item-476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-476"><a href="https://andrescepeda.com.co/#discografa-section">Lanzamientos</a></li><li class="centered-inline-logo-wrap" style="width: 0px;"><div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://andrescepeda.com.co/">
+						<img src="https://tiendacepeda.com/wp-content/uploads/2018/11/logo-andres-cepeda.png" alt="Tienda Cepeda" id="logo" data-height-percentage="53" data-actual-width="1238" data-actual-height="468">
+					</a>
+				</div></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="https://andrescepeda.com.co/media/">Fotos</a></li>
+<li id="menu-item-460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-460"><a href="https://andrescepeda.com.co/pagina-nueva-2/">Videos</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://andrescepeda.com.co/discografa-1/">Discografía</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="https://andrescepeda.com.co/contact/">Contacto</a></li>
+<li id="menu-item-477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-477"><a href="https://andrescepeda.com.co/fans/">Fans</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22"><a href="https://tiendacepeda.com/" aria-current="page">Tienda</a>
+<ul class="sub-menu">
+	<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item menu-item-437"><a href="https://tiendacepeda.com/" aria-current="page">Tienda</a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://tiendacepeda.com/index.php/mi-cuenta/">Mi cuenta</a></li>
+	<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://tiendacepeda.com/index.php/cart/">Carrito de compras</a></li>
+	<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162"><a href="https://tiendacepeda.com/index.php/checkout/">Checkout</a></li>
+	<li id="menu-item-173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173"><a href="http://tiendacepeda.com/index.php/mi-cuenta/orders/">Pedidos</a></li>
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="https://tiendacepeda.com/index.php/faqs/">FAQs</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://tiendacepeda.com/index.php/contacto-merchandising/">Contacto Merchandising</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					
+					<a href="https://tiendacepeda.com/index.php/cart/" class="et-cart-info">
+				<span></span>
+			</a>
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Seleccionar página</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				<ul id="mobile_menu" class="et_mobile_menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10 et_first_mobile_item"><a href="https://andrescepeda.com.co/welcome">Home</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="https://andrescepeda.com.co/#band-section">Bio</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://andrescepeda.com.co/#tour-section">Eventos</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289"><a href="https://andrescepeda.com.co/#news-section">Noticias</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290"><a href="https://andrescepeda.com.co/#music-section">Música</a></li>
+<li id="menu-item-476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-476"><a href="https://andrescepeda.com.co/#discografa-section">Lanzamientos</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="https://andrescepeda.com.co/media/">Fotos</a></li>
+<li id="menu-item-460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-460"><a href="https://andrescepeda.com.co/pagina-nueva-2/">Videos</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://andrescepeda.com.co/discografa-1/">Discografía</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="https://andrescepeda.com.co/contact/">Contacto</a></li>
+<li id="menu-item-477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-477"><a href="https://andrescepeda.com.co/fans/">Fans</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22"><a href="https://tiendacepeda.com/" aria-current="page">Tienda</a>
+<ul class="sub-menu">
+	<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item menu-item-437"><a href="https://tiendacepeda.com/" aria-current="page">Tienda</a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://tiendacepeda.com/index.php/mi-cuenta/">Mi cuenta</a></li>
+	<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://tiendacepeda.com/index.php/cart/">Carrito de compras</a></li>
+	<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162"><a href="https://tiendacepeda.com/index.php/checkout/">Checkout</a></li>
+	<li id="menu-item-173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173"><a href="http://tiendacepeda.com/index.php/mi-cuenta/orders/">Pedidos</a></li>
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="https://tiendacepeda.com/index.php/faqs/">FAQs</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://tiendacepeda.com/index.php/contacto-merchandising/">Contacto Merchandising</a></li>
+</ul>
+</li>
+</ul></div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://tiendacepeda.com/">
+					<input type="search" class="et-search-field" placeholder="Búsqueda …" value="" name="s" title="Buscar:">					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-18" class="post-18 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light et_pb_text_align_left" style="">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2><span style="font-family: inherit; font-weight: normal;">Tienda</span></h2>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h4><span style="color: #e8ad3d;">CD, DVD &amp; LP</span></h4>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_shop et_pb_shop_0 " data-icon="$">
+				
+				
+				<div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-14169 status-publish first instock product_cat-cd-dvd-lp product_tag-elequivocado-trececepeda product_tag-lonuevodecepeda has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/trece-autografiado/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/05/trece-111.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">TRECE</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>35,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-693 status-publish instock product_cat-cd-dvd-lp product_tag-andres-cepeda product_tag-cd product_tag-cepeda product_tag-dvd product_tag-edicion-de-lujo product_tag-mil-ciudades has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/mil-ciudades-edicion-de-lujo/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2048-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2048-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2048-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2048-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Mil Ciudades Edición de Lujo</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>110,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-603 status-publish instock product_cat-cd-dvd-lp product_tag-bigband product_tag-cd product_tag-cepeda has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/big-band/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/12/esta-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/12/esta-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/12/esta-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/12/esta-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Big Band</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>35,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-98 status-publish last instock product_cat-cd-dvd-lp product_tag-lp has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/lp-basado-en-una-historia-real/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/24862458_10155317205556025_7297185150780373840_n-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/24862458_10155317205556025_7297185150780373840_n-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/24862458_10155317205556025_7297185150780373840_n-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/24862458_10155317205556025_7297185150780373840_n-768x766.jpg 768w, https://tiendacepeda.com/wp-content/uploads/2018/10/24862458_10155317205556025_7297185150780373840_n-600x599.jpg 600w, https://tiendacepeda.com/wp-content/uploads/2018/10/24862458_10155317205556025_7297185150780373840_n-100x100.jpg 100w, https://tiendacepeda.com/wp-content/uploads/2018/10/24862458_10155317205556025_7297185150780373840_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">LP Basado en una historia real</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>130,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-92 status-publish first instock product_cat-cd-dvd-lp product_tag-cd has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/mil-ciudades/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Mil_Ciudades-Frontal-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Mil_Ciudades-Frontal-2-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Mil_Ciudades-Frontal-2-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Mil_Ciudades-Frontal-2-768x768.jpg 768w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Mil_Ciudades-Frontal-2-600x600.jpg 600w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Mil_Ciudades-Frontal-2-100x100.jpg 100w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Mil_Ciudades-Frontal-2.jpg 953w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Mil ciudades</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>35,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-86 status-publish instock product_cat-cd-dvd-lp product_tag-cd has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/lo-mejor-que-hay-en-mi-vida/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">¡Oferta!</span>
+	<span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/lo-mejor-que-hay-en-mi-vida-maximo-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/lo-mejor-que-hay-en-mi-vida-maximo-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/lo-mejor-que-hay-en-mi-vida-maximo-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/lo-mejor-que-hay-en-mi-vida-maximo-768x768.jpg 768w, https://tiendacepeda.com/wp-content/uploads/2018/10/lo-mejor-que-hay-en-mi-vida-maximo-600x600.jpg 600w, https://tiendacepeda.com/wp-content/uploads/2018/10/lo-mejor-que-hay-en-mi-vida-maximo-100x100.jpg 100w, https://tiendacepeda.com/wp-content/uploads/2018/10/lo-mejor-que-hay-en-mi-vida-maximo.jpg 770w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Lo mejor que hay en mi vida</h2>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>35,000</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>30,000</bdi></span></ins></span>
+</a></li>
+<li class="product type-product post-82 status-publish instock product_cat-cd-dvd-lp product_tag-cd product_tag-dvd has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/basado-en-una-historia-real/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Basado_En_Una_Historia_Real-Frontal-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Basado_En_Una_Historia_Real-Frontal-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Basado_En_Una_Historia_Real-Frontal-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Basado_En_Una_Historia_Real-Frontal-768x768.jpg 768w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Basado_En_Una_Historia_Real-Frontal-600x600.jpg 600w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Basado_En_Una_Historia_Real-Frontal-100x100.jpg 100w, https://tiendacepeda.com/wp-content/uploads/2018/10/Andres_Cepeda-Basado_En_Una_Historia_Real-Frontal.jpg 953w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Basado en una historia real</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>35,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-37 status-publish last instock product_cat-cd-dvd-lp product_tag-cd product_tag-dvd has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/producto-a/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/09/banda-sonora-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/09/banda-sonora-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/09/banda-sonora-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/09/banda-sonora-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Banda Sonora</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>30,000</bdi></span></span>
+</a></li>
+</ul>
+</div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h4><span style="color: #e8ad3d;">Libros</span></h4>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_shop et_pb_shop_1 " data-icon="$">
+				
+				
+				<div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-102 status-publish first outofstock product_cat-libros product_tag-cd product_tag-cepeda product_tag-libro has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/libro-mil-canciones-que-cantarte/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/mil-canciones-que-cantarte-final-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/mil-canciones-que-cantarte-final-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/mil-canciones-que-cantarte-final-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/mil-canciones-que-cantarte-final-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Libro Mil Canciones que Cantarte</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>39,000</bdi></span></span>
+</a></li>
+</ul>
+</div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_3 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h4><span style="color: #e8ad3d;">Ropa y Accesorios</span></h4>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_shop et_pb_shop_2 " data-icon="$">
+				
+				
+				<div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-117 status-publish first instock product_cat-ropa-y-accesorios product_tag-boton product_tag-cepeda has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://tiendacepeda.com/index.php/product/boton-cepeda/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/boton-andres-cepeda-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/boton-andres-cepeda-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/boton-andres-cepeda-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/boton-andres-cepeda-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Botón Cepeda</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>5,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-307 status-publish instock product_cat-ropa-y-accesorios product_tag-boton product_tag-poligamia has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://tiendacepeda.com/index.php/product/boton-poligamia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/boton-poligamia-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/boton-poligamia-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/boton-poligamia-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/boton-poligamia-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Botón Poligamia</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>4,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-24402 status-publish instock product_cat-ropa-y-accesorios shipping-taxable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-fallaste/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/woocommerce-placeholder.png" class="woocommerce-placeholder wp-post-image" alt="Marcador" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/woocommerce-placeholder.png 1200w, https://tiendacepeda.com/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://tiendacepeda.com/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://tiendacepeda.com/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://tiendacepeda.com/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://tiendacepeda.com/wp-content/uploads/woocommerce-placeholder-1080x1080.png 1080w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Camiseta «fallaste»</h2>
+</a></li>
+<li class="product type-product post-22831 status-publish last instock product_cat-ropa-y-accesorios has-post-thumbnail sold-individually shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-de-hombre-mentire-cuando-preguntes-si-te-quiero/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/10/MENTIRE-CUANDO-PREGUNTES-SI-TE-QUIERO-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">CAMISETA DE HOMBRE ¨MENTIRÉ CUANDO PREGUNTES SI TE QUIERO¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-22700 status-publish first instock product_cat-ropa-y-accesorios has-post-thumbnail sold-individually shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-canta-conmigo/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/10/CANTA-CONMIGO-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">CAMISETA ¨CANTA CONMIGO¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-748 status-publish instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-dejame-ir-quedate-aqui/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2088-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2088-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2088-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Camiseta ¨dejame ir-quédate aquí¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-22829 status-publish instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-en-tus-ojos-siento-magia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/10/EN-TUS-OJOS-SIENTO-MAGIA-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">CAMISETA ¨EN TUS OJOS SIENTO MAGIA¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-756 status-publish last instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-hoy-como-tu-no-hay-nada/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2086-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2086-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2086-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2086-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">camiseta ¨hoy como tu no hay nada¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-22693 status-publish first instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-%c2%a8mejor-que-a-ti-me-va%c2%a8/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/10/MEJOR-QUE-A-TI-ME-VA-3-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">CAMISETA ¨MEJOR QUE A TI ME VA¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-845 status-publish instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-ser-feliz-y-darse-cuenta/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/06/25B2080-e1559623053644-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/06/25B2080-e1559623053644-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/06/25B2080-e1559623053644-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/06/25B2080-e1559623053644-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">camiseta ¨ser feliz y darse cuenta¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-760 status-publish instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-si-estas-conmigo-ya-no-hara-falta-nada/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2089-e1556666188312-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2089-e1556666188312-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2089-e1556666188312-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">camiseta ¨si estas conmigo ya no hará falta nada¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-22827 status-publish last instock product_cat-ropa-y-accesorios has-post-thumbnail sold-individually shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-te-voy-a-amar/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/10/TE-VOY-A-AMAR-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">CAMISETA ¨TE VOY A AMAR¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-22689 status-publish first instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-%c2%a8tengo-ganas%c2%a8/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/10/tengo-ganas-1-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">CAMISETA ¨TENGO GANAS¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-752 status-publish instock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camisa-ya-no-me-sabe-igual/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2085-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2085-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2085-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2085-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Camiseta ¨ya no me sabe igual¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-22696 status-publish instock product_cat-ropa-y-accesorios product_cat-uncategorized has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/camiseta-como-te-atreves/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/10/COMO-TE-ATREVES-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">CAMISETA ¨¿COMO TE ATREVES?¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>45,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-106 status-publish last instock product_cat-ropa-y-accesorios product_tag-cepeda product_tag-gorra has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/gorra/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/gorras-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/gorras-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/gorras-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/gorras-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Gorra</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>30,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-24255 status-publish first outofstock product_cat-ropa-y-accesorios has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/guiro-autografiado-cepeda-en-tablas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2020/12/Guiro-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Guiro Autografiado ¨Cepeda en tablas¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>100,000</bdi></span></span>
+</a></li>
+</ul>
+</div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h4><span style="color: #e8ad3d;">Tecnología</span></h4>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_shop et_pb_shop_3 " data-icon="$">
+				
+				
+				<div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-108 status-publish first outofstock product_cat-tecnologia product_tag-autografiada product_tag-cepeda product_tag-vitrola has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<a href="https://tiendacepeda.com/index.php/product/vitrola/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="233" height="197" src="https://tiendacepeda.com/wp-content/uploads/2018/10/WhatsApp-Image-2018-09-10-at-2.19.31-PM.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Vitrola Blanca</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>415,000</bdi></span></span>
+</a></li>
+</ul>
+</div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_5 et_pb_bg_layout_dark  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h4><span style="color: #e8ad3d;">Hogar</span></h4>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_shop et_pb_shop_4 " data-icon="$">
+				
+				
+				<div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-704 status-publish first outofstock product_cat-hogar product_tag-andres product_tag-cepeda product_tag-cuadro product_tag-hogar has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/cuadro-hoy-como-tu-no-hay-nada/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2053-e1556662593444-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2053-e1556662593444-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2053-e1556662593444-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2053-e1556662593444-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">cuadro ¨Hoy como tu no hay nada¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>25,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-711 status-publish outofstock product_cat-hogar product_tag-andres product_tag-cepeda product_tag-decoracion product_tag-diseno product_tag-hogar has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/cuadro-para-mi-no-estas-prohibida/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2059-e1556660706754-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2059-e1556660706754-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2059-e1556660706754-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2059-e1556660706754-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Cuadro ¨Para mi no estás prohibida¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>25,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-725 status-publish outofstock product_cat-hogar product_tag-andres product_tag-andres-cepeda product_tag-decoracion product_tag-hogar has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/cuadro-%c2%a8ser-feliz-y-darse-cuenta%c2%a8/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2060-e1556662954984-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2060-e1556662954984-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2060-e1556662954984-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2060-e1556662954984-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Cuadro ¨Ser feliz y darse cuenta¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>25,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-710 status-publish last outofstock product_cat-hogar product_tag-cuadro product_tag-decoracion product_tag-hogar has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/cuadro-ser-feliz-y-darse-cuenta/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2057-e1556662280391-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2019/04/25B2057-e1556662280391-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2057-e1556662280391-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2019/04/25B2057-e1556662280391-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">cuadro ¨Ser feliz y darse cuenta¨</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>25,000</bdi></span></span>
+</a></li>
+<li class="product type-product post-113 status-publish first instock product_cat-hogar product_tag-cepeda product_tag-mug has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://tiendacepeda.com/index.php/product/mugs/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="300" height="300" src="https://tiendacepeda.com/wp-content/uploads/2018/10/mug-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tiendacepeda.com/wp-content/uploads/2018/10/mug-300x300.jpg 300w, https://tiendacepeda.com/wp-content/uploads/2018/10/mug-150x150.jpg 150w, https://tiendacepeda.com/wp-content/uploads/2018/10/mug-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"><span class="et_overlay et_pb_inline_icon" data-icon="$"></span></span><h2 class="woocommerce-loop-product__title">Mugs</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>30,000</bdi></span></span>
+</a></li>
+</ul>
+</div>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2    et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->			</div>
+			
+		</div>					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon et-hidden"></span>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+<!-- instagram -->
+<li class="et-social-icon et-social-instagram">
+<a target="_blank" href="http://www.instagram.com/andrescepeda" class="icon">
+<span>Instagram</span>
+</a>
+</li>
+<!-- /instagram -->
+<!-- facebook -->
+	<li class="et-social-icon et-social-facebook">
+		<a target="_blank" href="https://www.facebook.com/andrescepedaoficial" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+<!-- /facebook -->
+<!-- twitter -->
+	<li class="et-social-icon et-social-twitter">
+		<a target="_blank" href="https://twitter.com/andrescepeda" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+<!-- /twitter -->
+<!-- youtube -->
+<li class="et-social-icon et-social-youtube">
+<a target="_blank" href="https://www.youtube.com/channel/UCHkLu9m9qA7uu5jwMefB2dA" class="icon">
+<span>YouTube</span>
+</a>
+</li>
+<!-- /youtube -->
+<!-- itunes -->
+<li class="et-social-icon et-social-itunes">
+<a target="_blank" href="https://itunes.apple.com/co/artist/andres-cepeda/id139985795" class="icon"><i class="fab fa-itunes-note"></i>
+<span>iTunes</span>
+</a>
+</li>
+<!-- /itunes -->
+<!-- spotify -->
+<li class="et-social-icon et-social-spotify">
+<a target="_blank" href="https://open.spotify.com/track/6xAhkN7uE1qdhPa8jZwhTb" class="icon"><i class="fab fa-spotify"></i>
+<span>Spotify</span>
+</a>
+</li>
+<!-- /spotify -->
+<!-- google -->
+<!-- /google -->
+<!-- rss -->
+<!-- /rss -->
+</ul>
+<div class="logo_footer">logo</div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/77795a9735b3e20344dda50ec/756661c0487d8a15741ec11c1.js");</script>	<script type="text/javascript">
+		var et_animation_data = [{"class":"et_pb_text_0","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+	</script>
+				<!-- Facebook Pixel Code -->
+			<noscript>
+				<img
+					height="1"
+					width="1"
+					style="display:none"
+					alt="fbpx"
+					src="https://www.facebook.com/tr?id=690085025016139&ev=PageView&noscript=1"
+				/>
+			</noscript>
+			<!-- End Facebook Pixel Code -->
+				<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type="text/javascript" src="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/tiendacepeda.com\/index.php\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.7.4" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.7.4" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d8611e222b79c7371a07b597805c2356","fragment_name":"wc_fragments_d8611e222b79c7371a07b597805c2356","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.7.4" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-after">
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+	
+</script>
+<script type="text/javascript" id="mailchimp-woocommerce-js-extra">
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/tiendacepeda.com","ajax_url":"https:\/\/tiendacepeda.com\/wp-admin\/admin-ajax.php","language":"es"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.4.7" id="mailchimp-woocommerce-js"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Anterior","next":"Siguiente"};
+var et_pb_custom = {"ajaxurl":"https:\/\/tiendacepeda.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/tiendacepeda.com\/wp-content\/themes\/Divi-3\/images","builder_images_uri":"https:\/\/tiendacepeda.com\/wp-content\/themes\/Divi-3\/includes\/builder\/images","et_frontend_nonce":"1107f2f7a2","subscription_failed":"Por favor, revise los campos a continuaci\u00f3n para asegurarse de que la informaci\u00f3n introducida es correcta.","et_ab_log_nonce":"ba7ac37c12","fill_message":"Por favor, rellene los siguientes campos:","contact_error_message":"Por favor, arregle los siguientes errores:","invalid":"De correo electr\u00f3nico no v\u00e1lida","captcha":"Captcha","prev":"Anterior","previous":"Anterior","next":"Siguiente","wrong_captcha":"Ha introducido un n\u00famero equivocado de captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"18","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"off"};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-content/themes/Divi-3/js/custom.min.js?ver=3.12.2" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://tiendacepeda.com/wp-content/themes/Divi-3/core/admin/js/common.js?ver=3.12.2" id="et-core-common-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202235.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.1.1',blog:'152162289',post:'18',tz:'0',srv:'tiendacepeda.com'} ]);
+	_stq.push([ 'clickTrackerInit', '152162289', '18' ]);
+</script>
+
+
+<img src="https://pixel.wp.com/g.gif?v=ext&amp;j=1%3A9.1.1&amp;blog=152162289&amp;post=18&amp;tz=0&amp;srv=tiendacepeda.com&amp;host=tiendacepeda.com&amp;ref=https%3A%2F%2Fandrescepeda.com.co%2F&amp;fcp=48902&amp;rand=0.5708682460767649" alt="" width="6" height="5" id="wpstats"><div class="wc-facebook-pixel-event-placeholder"></div></body></html>

@@ -1,0 +1,4323 @@
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="es-CO" class="yui3-js-enabled js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths wf-alibabasans-n4-active wf-alibabasans-n5-active wf-alibabasans-i7-active wf-alibabasans-n7-active wf-alibabasans-i4-active wf-active" style="" id="yui_3_17_2_1_1662132837615_94"><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- andrescepeda -->
+<link charset="utf-8" rel="stylesheet" id="yui_3_17_2_1_1662132837615_471" href="//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.es-419.css"><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/5a3b6271/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api" class="loaded"></script><script charset="utf-8" id="yui_3_17_2_1_1662132837615_470" src="//assets.squarespace.com/universal/scripts-compressed/tourdates-1acc21abf00c51f91be37-min.es-419.js"></script><link charset="utf-8" rel="stylesheet" id="yui_3_17_2_1_1662132837615_485" href="//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.es-419.css"><script charset="utf-8" id="yui_3_17_2_1_1662132837615_484" src="//assets.squarespace.com/universal/scripts-compressed/tourdates-1acc21abf00c51f91be37-min.es-419.js"></script><base href="">
+<meta charset="utf-8">
+<title>ANDRÉS CEPEDA</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1539277316567-S3YX79TW0WC9YLWXB5NF/favicon.ico">
+<link rel="canonical" href="https://andrescepeda.com.co">
+<meta property="og:site_name" content="ANDRÉS CEPEDA">
+<meta property="og:title" content="ANDRÉS CEPEDA">
+<meta property="og:url" content="https://andrescepeda.com.co">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Productor, cantante y compositor bogotano que cuenta con una trayectoria única, que le ha permitido girar por el mundo, ser portada de múltiples revistas y diarios, participar como jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, figurar en listados de ">
+<meta property="og:image" content="http://static1.squarespace.com/static/5ba161f245776eeed1027ece/t/5bd7599a8165f5a5e927e2a9/1540839836282/Logo+.png?format=1500w">
+<meta property="og:image:width" content="1238">
+<meta property="og:image:height" content="468">
+<meta itemprop="name" content="ANDRÉS CEPEDA">
+<meta itemprop="url" content="https://andrescepeda.com.co">
+<meta itemprop="description" content="Productor, cantante y compositor bogotano que cuenta con una trayectoria única, que le ha permitido girar por el mundo, ser portada de múltiples revistas y diarios, participar como jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, figurar en listados de ">
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5ba161f245776eeed1027ece/t/5bd7599a8165f5a5e927e2a9/1540839836282/Logo+.png?format=1500w">
+<link rel="image_src" href="http://static1.squarespace.com/static/5ba161f245776eeed1027ece/t/5bd7599a8165f5a5e927e2a9/1540839836282/Logo+.png?format=1500w">
+<meta itemprop="image" content="http://static1.squarespace.com/static/5ba161f245776eeed1027ece/t/5bd7599a8165f5a5e927e2a9/1540839836282/Logo+.png?format=1500w">
+<meta name="twitter:title" content="ANDRÉS CEPEDA">
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5ba161f245776eeed1027ece/t/5bd7599a8165f5a5e927e2a9/1540839836282/Logo+.png?format=1500w">
+<meta name="twitter:url" content="https://andrescepeda.com.co">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Productor, cantante y compositor bogotano que cuenta con una trayectoria única, que le ha permitido girar por el mundo, ser portada de múltiples revistas y diarios, participar como jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, figurar en listados de ">
+<meta name="description" content="Productor, cantante y compositor bogotano que cuenta con una trayectoria 
+única, que le ha permitido girar por el mundo, ser portada de múltiples 
+revistas y diarios, participar como jurado en programas de talento, lograr 
+primeros lugares en la radio con innumerables sencillos, figurar en 
+listados de plataformas digitales, ser invitado a cantar en vivo y en 
+estudio con artistas como: Fonseca, Ricardo Montaner, Kany García, Tommy 
+Torres, Juan Luis Guerra, Leo Dan entre otros; ser nominado y ganador de 
+Grammy latino, compartir experiencias inigualables con fans, proponer 
+diferentes formatos musicales como, Big Band, Sinfónico, guitarra y voz y 
+más recientemente Cepeda en Tablas un espectáculo que mezcla el teatro con 
+la música; todo esto ratifica a Andrés Cepeda como uno de los artistas más 
+respetados y queridos de Colombia.">
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/GkNSeBFv-XzVO6gjwBGBYdRCWZo33NIrLNfikT92vp9feGIIfFHN4UJLFRbh52jhWDmKjQIhwAjkF29aFDZ8ZAmqwQMkFhmRZs7JMkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcB0ZY48ShF8SemqjPoDSWmyScmDSeBRZPoRdhXCHKoySkolZP37O1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80Zko0ZWbCjAoqScmDjhm3ZAsyOcFzdPoRdkUydcskZWFRZWg8ZeI0SaBujW48Sagyjh90jhNlOeBDOcu8OeUzjhBC-eNDifUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcB0ZY48ShF8SemqjPoRdhX0jhvCiaiaOcB0ZY48ShF8SemqjPoDSWmyScmDSeBRZPoRdhXCiaiaOcBDOcu8OYiaikoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlJ6Uyde8KjA4yOWFyd1w7f6Rgt6JbMg6IJMJ7f6R2t6JbMg6BJMJ7f6RBt6JbMg6YJMJ7f6Rft6JbMg65JMJ7f6Ret6JbMg6sJMHbMiKs8obe.js"></script>
+<style type="text/css">@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/7d0467/00000000000000007735c5b6/30/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/7d0467/00000000000000007735c5b6/30/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/7d0467/00000000000000007735c5b6/30/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/67109b/00000000000000007735c5bc/30/l?subset_id=2&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/67109b/00000000000000007735c5bc/30/d?subset_id=2&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/67109b/00000000000000007735c5bc/30/a?subset_id=2&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/21c0ec/00000000000000007735c5c2/30/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/21c0ec/00000000000000007735c5c2/30/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/21c0ec/00000000000000007735c5c2/30/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/d3c04c/00000000000000007735c5ba/30/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/d3c04c/00000000000000007735c5ba/30/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/d3c04c/00000000000000007735c5ba/30/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/c3fbcc/00000000000000007735c5c8/30/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/c3fbcc/00000000000000007735c5c8/30/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/c3fbcc/00000000000000007735c5c8/30/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}</style><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Abel:wght@400&amp;family=Source+Code+Pro:wght@300;400;700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4301ad736d8e2d570bd1b-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4301ad736d8e2d570bd1b-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-c9c84fb925443b6ecf112-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-c9c84fb925443b6ecf112-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-635684e26283edd75dad6-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a99bfd704f08d86ca2c5f-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-635684e26283edd75dad6-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-9497d1b167907bcaf8275-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-9497d1b167907bcaf8275-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-70d7cd838fda1bb31ddfb-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-70d7cd838fda1bb31ddfb-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-981a580bd88f71265360c-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-981a580bd88f71265360c-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c64daf1e4d0a3dba03bd5-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c64daf1e4d0a3dba03bd5-min.es-419.js" defer=""></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-139e657033e559fbeffb0-min.es-419.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-9fbcf378e96d6aeea0d01-min.es-419.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-57b4a96a3a5c02a3d8f87-min.es-419.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-781c722f252eb767bedf5-min.es-419.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-76a37e1ec86cf28b3d899-min.es-419.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-2474dc7bfa7d1cebae461-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-4b9d09b75166477937e71-min.es-419.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-ba971daeed367d6255ef2-min.es-419.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-99e65cf52d60ae42d1689-min.es-419.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-4db22975614d0bc4626f4-min.es-419.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-905deeba97cb78e158948-min.es-419.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-60a0b1e81976960c38d95-min.es-419.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-8804675084a3982b022e3-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-00bcf795da365f4d25db3-min.es-419.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-7303da69d484bae42a365-min.es-419.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-225c7709a4e33a106e569-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-67ad56c513982a5661f74-min.es-419.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-5d6c4f164c4ab5457107a-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-33d53ba98c915841f475a-min.es-419.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-8804675084a3982b022e3-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-5b257123b0d3acb48a5c8-min.es-419.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-8804675084a3982b022e3-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-6c9c4ba28490e315b2f89-min.es-419.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-dd173a23c0d46da737ca9-min.es-419.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-f13b131daa5d01f535e9e-min.es-419.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-e9dd34f9b9cbad02f0ddd-min.es-419.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c206e2a78151ac4eff237-min.es-419.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-1acc21abf00c51f91be37-min.es-419.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-e3e359ea7485de586bda6-min.es-419.js"}},"pageType":1,"website":{"id":"5ba161f245776eeed1027ece","identifier":"andrescepeda","websiteType":1,"contentModifiedOn":1661910767648,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"es-CO","timeZone":"America/Bogota","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"COT","siteTitle":"ANDR\u00C9S CEPEDA","fullSiteTitle":"ANDR\u00C9S CEPEDA","siteDescription":"<p>Productor, cantante y compositor bogotano que cuenta con una trayectoria \u00FAnica, que le ha permitido girar por el mundo, ser portada de m\u00FAltiples revistas y diarios, participar como jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, figurar en listados de &nbsp;plataformas digitales, ser invitado a cantar en vivo y en estudio con artistas como: Fonseca, Ricardo Montaner, Kany Garc\u00EDa, Tommy Torres, Juan Luis Guerra, Leo Dan entre otros; ser nominado y ganador de Grammy latino, compartir experiencias inigualables con fans, proponer diferentes formatos musicales como, Big Band, Sinf\u00F3nico, guitarra y voz y m\u00E1s recientemente Cepeda en Tablas un espect\u00E1culo que mezcla el teatro con la m\u00FAsica; todo esto ratifica a Andr\u00E9s Cepeda como uno de los artistas m\u00E1s respetados y queridos de Colombia.</p>","location":{"mapLat":4.6917079,"mapLng":-74.03878029999998,"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"5bd7599a8165f5a5e927e2a9","shareButtonOptions":{"7":true,"3":true,"1":true,"8":true,"6":true,"2":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540839834327-2NHFDQZIVW3JFDPVP48U/Logo+.png","authenticUrl":"https://andrescepeda.com.co","internalUrl":"https://andrescepeda.squarespace.com","baseUrl":"https://andrescepeda.com.co","primaryDomain":"andrescepeda.com.co","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":64,"screenname":"Instagram","addedOn":1652822697757,"profileUrl":"https://www.instagram.com/andrescepeda/","iconEnabled":true,"serviceName":"instagram-unauth"},{"serviceId":60,"userId":"10161203351610145","screenname":"Nico Gallego Torres","addedOn":1541059161326,"profileUrl":"https://www.facebook.com/andrescepedaoficial/?ref=bookmarks","iconUrl":"http://graph.facebook.com/10161203351610145/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":4,"userId":"146985042","userName":"andrescepeda","screenname":"Andr\u00E9s Cepeda","addedOn":1537543675726,"profileUrl":"https://twitter.com/andrescepeda","iconUrl":"http://pbs.twimg.com/profile_images/1032839553361608708/oxKOEW1F_normal.jpg","collectionId":"5ba50dfbf4e53148da974c07","iconEnabled":true,"serviceName":"twitter"},{"serviceId":11,"userId":"UCMKBjFBAIunBkWNUCCRKg2Q","screenname":"Andr\u00E9s Cepeda En Vivo","addedOn":1541059977055,"profileUrl":"https://www.youtube.com/channel/UCHkLu9m9qA7uu5jwMefB2dA","iconUrl":"https://yt3.ggpht.com/a-/AN66SAzsXGUN1kiNloiPm-4eLLJLAH-OPgd-kq5C5g=s88-mo-c-c0xffffffff-rj-k-no","iconEnabled":true,"serviceName":"youtube"},{"serviceId":27,"userName":"iTunes Store","screenname":"iTunes Store","addedOn":1541059272249,"profileUrl":"https://itunes.apple.com/co/artist/andres-cepeda/id139985795","iconEnabled":true,"serviceName":"itunes"},{"serviceId":71,"screenname":"Spotify","addedOn":1652822651301,"profileUrl":"https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6?si=aAPE-z5rQP2XNw-haU0i9w","iconEnabled":true,"serviceName":"spotify-unauth"},{"serviceId":82,"screenname":"TikTok","addedOn":1652822757569,"profileUrl":"https://www.tiktok.com/@andrescepedamusica?lang=en&amp;source=app","iconEnabled":true,"serviceName":"tiktok-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"b31721d65a006f3555e9b287b0dd6001fe18161bb285c8cc8d86501c2a803ca9","showOwnerLogin":false},"websiteSettings":{"id":"5ba161f245776eeed1027ed1","websiteId":"5ba161f245776eeed1027ece","type":"Personal","subjects":[],"country":"CO","state":"","simpleLikingEnabled":true,"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Welcome","id":"5bda3df24ae237cd89ef6b35","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","design":"Slideshow","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-controls":"Arrows","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","grid-aspect-ratio":"1:1 (Square)","gridSize":"350px","gridSpacing":"20px","headerPadding":"30px","homepage-index-nav":"Show On Scroll","logoWidth":"140px","product-gallery-auto-crop":"false","product-image-auto-crop":"false","siteTitleContainerWidth":"255px","slideshow-aspect-ratio":"16:9 (Widescreen)","slideshow-autoplay":"true","slideshow-transition":"Fade","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52e96934e4b0ea14d0f64568","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/","betaFeatureFlags":["fluid_engine_block_centering","customer_account_creation_recaptcha","customer_accounts_email_verification","background_image_effect_options","commerce_clearpay","crm_default_newsletter_block_to_campaigns","campaigns_global_uc_ab","campaigns_labor_day_email","background_art_onboarding","campaigns_asset_picker","marketing_landing_page","campaigns_thumbnail_layout","commerce_visitor_cldr_currency_formatter","commerce_etsy_product_import","scheduling_block_schema_editor","commerce_etsy_shipping_import","reduce_general_search_api_traffic","commerce_restock_notifications","member_areas_schedule_interview","crm_remove_subscriber","campaigns_content_editing_survey","asset_uploader_refactor","viewer-role-contributor-invites","block_annotations_revamp","nested_categories_migration_enabled","member_areas_spanish_interviews","commerce_order_status_access","commerce_site_visitor_metrics","campaigns_new_subscriber_search","crm_show_subscriber_import_in_profiles","send_local_pickup_ready_email"],"videoAssetsFeatureFlags":[],"impersonatedSession":false,"tzData":{"zones":[[-300,"CO","-05/-04",null]],"rules":{"CO":[]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://andrescepeda.com.co/welcome?format=rss">
+<script type="application/ld+json">{"url":"https://andrescepeda.com.co","name":"ANDR\u00C9S CEPEDA","description":"<p>Productor, cantante y compositor bogotano que cuenta con una trayectoria \u00FAnica, que le ha permitido girar por el mundo, ser portada de m\u00FAltiples revistas y diarios, participar como jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, figurar en listados de &nbsp;plataformas digitales, ser invitado a cantar en vivo y en estudio con artistas como: Fonseca, Ricardo Montaner, Kany Garc\u00EDa, Tommy Torres, Juan Luis Guerra, Leo Dan entre otros; ser nominado y ganador de Grammy latino, compartir experiencias inigualables con fans, proponer diferentes formatos musicales como, Big Band, Sinf\u00F3nico, guitarra y voz y m\u00E1s recientemente Cepeda en Tablas un espect\u00E1culo que mezcla el teatro con la m\u00FAsica; todo esto ratifica a Andr\u00E9s Cepeda como uno de los artistas m\u00E1s respetados y queridos de Colombia.</p>","image":"//images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540839834327-2NHFDQZIVW3JFDPVP48U/Logo+.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","email":"","telephone":"","sameAs":["https://www.instagram.com/andrescepeda/","https://www.facebook.com/andrescepedaoficial/?ref=bookmarks","https://twitter.com/andrescepeda","https://www.youtube.com/channel/UCHkLu9m9qA7uu5jwMefB2dA","https://itunes.apple.com/co/artist/andres-cepeda/id139985795","https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6?si=aAPE-z5rQP2XNw-haU0i9w","https://www.tiktok.com/@andrescepedamusica?lang=en&amp;source=app"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","image":"https://static1.squarespace.com/static/5ba161f245776eeed1027ece/t/5bd7599a8165f5a5e927e2a9/1661910767648/","name":"","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5ba161f245776eeed1027ece/51/52e96934e4b0ea14d0f64568/5ba161f245776eeed1027ee3/1128/site.css"><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  <style type="text/css">.disable-hover:not(.sqs-layout-editing) #siteWrapper, .disable-hover:not(.sqs-layout-editing) #siteWrapper * {pointer-events: none !important;}</style><script type="application/ld+json">[
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Carnegie Hall - Nueva York - La Ruta P\u00farpura de New York, NY",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572062?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-06T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Carnegie Hall - Nueva York - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "New York",
+        "addressRegion": "NY"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.764875",
+        "longitude": "-73.980498"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572062?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Meridian Arts Center - Toronto - La Ruta P\u00farpura de Toronto, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572098?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-08T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Meridian Arts Center - Toronto - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "43.7661379",
+        "longitude": "-79.4142505"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572098?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Th\u00e9\u00e2tre Rialto - Montreal - La Ruta P\u00farpura de Montr\u00e9al, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572124?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-09T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Th\u00e9\u00e2tre Rialto - Montreal - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Montr\u00e9al",
+        "addressRegion": "QC"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "45.523619",
+        "longitude": "-73.60480199999999"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572124?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Bella Concert Hall - Calgary - La Ruta P\u00farpura.  de Calgary, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103663230?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-11T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Bella Concert Hall - Calgary - La Ruta P\u00farpura. ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.0114519",
+        "longitude": "-114.1287672"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103663230?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Vancouver Playhouse - Vancouver - La Ruta P\u00farpura de Vancouver, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572143?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-12T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Vancouver Playhouse - Vancouver - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Vancouver",
+        "addressRegion": "BC"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.2807738",
+        "longitude": "-123.1125125"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572143?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Variety Playhouse - Atlanta - La Ruta P\u00farpura de Atlanta, GA",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572317?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-17T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Variety Playhouse - Atlanta - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Atlanta",
+        "addressRegion": "GA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "33.7637898",
+        "longitude": "-84.3511292"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572317?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Plaza Live - Orlando - La Ruta P\u00farpura. de Orlando, FL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573183?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-18T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Plaza Live - Orlando - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Orlando",
+        "addressRegion": "FL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.548815",
+        "longitude": "-81.351832"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573183?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Ferguson Hall - Tampa - La Ruta P\u00farpura de Tampa, FL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573246?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-19T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Ferguson Hall - Tampa - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Tampa",
+        "addressRegion": "FL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "27.9512508",
+        "longitude": "-82.4640967"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573246?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Adrienne Arsht Center - Miami - La Ruta P\u00farpura. de Miami, FL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573262?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-20T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Adrienne Arsht Center - Miami - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Miami",
+        "addressRegion": "FL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.784901",
+        "longitude": "-80.189598"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573262?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en The Vic Theatre - Chicago - La Ruta P\u00farpura de Chicago, IL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103662842?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-02T18:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Vic Theatre - Chicago - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Chicago",
+        "addressRegion": "IL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "41.939517",
+        "longitude": "-87.6538329"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103662842?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Sixth & I - Washington, DC - La Ruta P\u00farpura. de Washington, DC",
+    "url": "https:\/\/www.bandsintown.com\/e\/1025569249?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-03T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Sixth & I - Washington, DC - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Washington",
+        "addressRegion": "DC"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "38.900734",
+        "longitude": "-77.020112"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/1025569249?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en City Winery - Philadelphia - La Ruta P\u00farpura. de Philadelphia, PA",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573306?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-04T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "City Winery - Philadelphia - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Philadelphia",
+        "addressRegion": "PA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "39.9524744",
+        "longitude": "-75.1562478"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573306?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en City Winery - Boston - La Ruta P\u00farpura. de Boston, MA",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573363?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-05T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "City Winery - Boston - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Boston",
+        "addressRegion": "MA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "42.3645923",
+        "longitude": "-71.0588692"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573363?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  }
+]</script></head>
+  
+  <body id="collection-5bda3df24ae237cd89ef6b35" class="transparent-header  expand-homepage-index-links homepage-index-nav-show-on-scroll show-page-title index-section-separation-border design-slideshow grid-aspect-ratio-11-square grid-max-columns-four slideshow-aspect-ratio-169-widescreen slideshow-transition-fade slideshow-autoplay gallery-controls-arrows gallery-controls-color-light  meta-priority-date hide-entry-author  pre-footer-content-custom   show-category-navigation hide-album-share-link   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square  product-gallery-size-11-square  show-product-price show-product-item-nav  tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-light hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-pill medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-raised button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5bda3df24ae237cd89ef6b35 collection-type-index collection-layout-default homepage view-list mobile-style-available logo-image has-banner-image index-page collection-welcome">
+
+    <div id="site">
+
+      <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden"><div class="show-on-scroll-wrapper" id="showOnScrollWrapper"><div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" style="white-space: normal; display: block;">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#tour-section">
+                        EVENTOS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#band-section">
+                        BIO
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#news-section">
+                        NOTICIAS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#discografa-section">
+                        Lanzamientos
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base active">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/discografa-1">
+                DISCOGRAFÍA
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/media">
+                  FOTOS
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                Contacto
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://tiendacepeda.com/">
+              TIENDA 
+            </a>
+          </div>
+          
+
+        
+
+      
+
+      
+    </nav>
+  </div></div>
+
+      <div id="overlayNav">
+        
+
+  <div id="mobileNavWrapper" class="nav-wrapper">
+    <nav id="mobileNavigation">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#tour-section">
+                        EVENTOS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#band-section">
+                        BIO
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#news-section">
+                        NOTICIAS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#discografa-section">
+                        Lanzamientos
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/discografa-1">
+                DISCOGRAFÍA
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/media">
+                  FOTOS
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                Contacto
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://tiendacepeda.com/">
+              TIENDA 
+            </a>
+          </div>
+          
+
+        
+
+      
+
+
+      
+    </nav>
+  </div>
+
+
+      </div>
+
+      <header id="header" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="title-logo-wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage" class="tmpl-loading logo-image"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540839834327-2NHFDQZIVW3JFDPVP48U/Logo+.png?format=1500w" alt="ANDRÉS CEPEDA"></a></h1>
+            
+          </div><!-- comment the linebreak between these two elements because science
+          --><label for="mobileNavToggle" class="mobile-nav-toggle-label show-on-scroll-mobile"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
+          --><div id="headerNav" class="tmpl-loading positioned" style="margin-left: -56px; margin-top: -41px; margin-bottom: 12px;">
+
+  <div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" style="white-space: normal; display: block;">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#tour-section">
+                        EVENTOS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#band-section">
+                        BIO
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#news-section">
+                        NOTICIAS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home" style="margin-right: 100px;">
+                      <a href="/#discografa-section">
+                        Lanzamientos
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base active">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection" style="margin-left: 100px;">
+              <a href="/discografa-1">
+                DISCOGRAFÍA
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/media">
+                  FOTOS
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                Contacto
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://tiendacepeda.com/">
+              TIENDA 
+            </a>
+          </div>
+          
+
+        
+
+      
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      <div id="siteWrapper" class="clearfix">
+
+        <!-- Banner -->
+        
+          
+            
+              <!-- nothing to see here, move along -->
+            
+          
+        
+
+        
+        
+
+        <main id="page" role="main">
+          <div id="content" class="main-content" data-content-field="main-content" data-collection-id="5bda3df24ae237cd89ef6b35">
+
+            
+              
+
+              
+            
+
+           <!-- Create index sections -->
+
+  
+  <div id="tour-section" class="index-section page" data-url-id="tour" data-collection-id="5ba163bd21c67cc496f302a8" data-edit-main-image="Background">
+    <div class="index-section-wrapper has-main-media has-main-image" id="yui_3_17_2_1_1662132837615_1038">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+            <div class="index-section-image content-fill" style="overflow: hidden;">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661910757073-U3P05P8B28240G9QS8FF/800X200NY.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661910757073-U3P05P8B28240G9QS8FF/800X200NY.png" data-image-dimensions="800x200" data-image-focal-point="0.5,0.5" data-parent-ratio="0.7" style="font-size: 0px; left: -3385.5px; top: 0px; width: 8120px; height: 2030px; position: relative;" alt="800X200NY.png" class="loaded" data-image-resolution="2500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661910757073-U3P05P8B28240G9QS8FF/800X200NY.png?format=2500w">
+            </div>
+            <div class="index-image-overlay"></div>
+          
+        
+
+        <div class="content page-content has-main-media has-main-image tmpl-loading" id="tour-page" data-url-id="tour">
+          <div class="content-inner has-content" style="padding-top: 41.5px;" id="yui_3_17_2_1_1662132837615_1037">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1661909558521" id="page-5ba163bd21c67cc496f302a8"><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_1036"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1662132837615_1035"><div class="sqs-block marquee-block sqs-block-marquee" data-block-type="70" id="block-yui_3_17_2_1_1661909169264_4179"><div class="sqs-block-content">
+
+
+
+<div class="Marquee" style="font-size: 1.5rem; --marquee-font-size-value: 1.5;" data-ready="true">
+  <script class="Marquee-props" type="application/json">{
+                    "marqueeItems": [ {
+                      "text": "LA RUTA PÚRPURA"
+                    } ],
+                    "linkTo": "",
+                    "waveFrequency": 4,
+                    "waveIntensity": 0,
+                    "animationDirection": "left",
+                    "animationSpeed": 1.0,
+                    "fadeEdges": true,
+                    "textStyle": "paragraph-1",
+                    "textSize": {
+                      "unit": "rem",
+                      "value": 1.5
+                    },
+                    "itemSpacing": {
+                      "unit": "em",
+                      "value": 0.5
+                    },
+                    "blockId": "yui_3_17_2_1_1661909169264_4179",
+                    "containerStyles": {
+                      "backgroundEnabled": false,
+                      "borderRadii": {
+                        "topLeft": {
+                          "unit": "px",
+                          "value": 0.0
+                        },
+                        "topRight": {
+                          "unit": "px",
+                          "value": 0.0
+                        },
+                        "bottomLeft": {
+                          "unit": "px",
+                          "value": 0.0
+                        },
+                        "bottomRight": {
+                          "unit": "px",
+                          "value": 0.0
+                        }
+                      },
+                      "padding": {
+                        "top": {
+                          "unit": "%",
+                          "value": 3.0
+                        },
+                        "right": {
+                          "unit": "%",
+                          "value": 0.0
+                        },
+                        "bottom": {
+                          "unit": "%",
+                          "value": 3.0
+                        },
+                        "left": {
+                          "unit": "%",
+                          "value": 0.0
+                        }
+                      },
+                      "stretchedToFill": false
+                    },
+                    "featureFlags": {
+                      "useCLDRMoneyFormat": true
+                    }
+                  }</script>
+  <div class="Marquee-display fade-edges">
+    <div class="Marquee-measure">
+      
+        <p class="Marquee-item Marquee-item--text" style="margin-right: 0.5em; font-size: 1.5rem;">
+          LA RUTA PÚRPURA
+        </p>
+      
+    </div>
+
+    <p style="font-size: 1.5rem; --marquee-font-size-value: 1.5;">
+      <svg class="Marquee-svg" fill="currentColor" aria-hidden="true" style="height: 58px; transform: translateY(5.8px);">
+        <g class="Marquee-path-group" transform="translate(0, 2.9000000000000004)">
+          <path class="Marquee-path" fill="none" stroke="transparent" stroke-width="0" d="M-550,38.396  L-550,38.396 S-183.15,38.396 0,38.396 S366.85,38.396 550,38.396 S916.85,38.396 1100,38.396 S1466.85,38.396 1650,38.396" stroke-dasharray="215 12 " id="yui_3_17_2_1_1661909169264_4179" stroke-dashoffset="30"></path>
+        </g>
+        <text>
+          <textPath class="Marquee-svg-text" href="#yui_3_17_2_1_1661909169264_4179" startOffset="-30"><tspan class="Marquee-svg-text" x="0">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="227">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="454">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="681">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="908">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="1135">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="1362">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="1589">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="1816">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="2043">LA RUTA PÚRPURA</tspan><tspan class="Marquee-svg-text" x="2270">LA RUTA PÚRPURA</tspan></textPath>
+        </text>
+        <text>
+          <textPath class="Marquee-svg-group" visibility="hidden" href="#yui_3_17_2_1_1661909169264_4179">
+            
+              <tspan class="Marquee-svg-text">LA RUTA PÚRPURA</tspan>
+            
+          </textPath>
+        </text>
+        <g class="Marquee-hitbox" data-hitbox="" aria-labelledby="ariaLabelyui_3_17_2_1_1661909169264_4179">
+          <g class="Marquee-path-hitbox-group" transform="translate(0, -9.599)">
+            <path class="Marquee-path-hitbox" fill="none" stroke="transparent" d="M-550,38.396  L-550,38.396 S-183.15,38.396 0,38.396 S366.85,38.396 550,38.396 S916.85,38.396 1100,38.396 S1466.85,38.396 1650,38.396" id="yui_3_17_2_1_1661909169264_4179" stroke-width="58"></path>
+            <path class="Marquee-path-hitbox-focus-outline" fill="none" stroke="transparent" stroke-width="2px" d="
+      M-550,58
+       L-550,52.2 S-183.15,52.2 0,52.2 S366.85,52.2 550,52.2 S916.85,52.2 1100,52.2 S1466.85,52.2 1650,52.2
+      M-550,5.800000000000001
+       L-550,5.800000000000001 S-183.15,5.800000000000001 0,5.800000000000001 S366.85,5.800000000000001 550,5.800000000000001 S916.85,5.800000000000001 1100,5.800000000000001 S1466.85,5.800000000000001 1650,5.800000000000001
+    " style="transform: translateY(5.8px);"></path>
+          </g>
+        </g>
+      </svg>
+      
+      <span class="v6-visually-hidden" id="ariaLabelyui_3_17_2_1_1661909169264_4179">
+        LA RUTA PÚRPURA 
+      </span>
+    </p>
+
+    <div class="Marquee-track"></div>
+  </div>
+</div>
+</div></div><div class="sqs-block tourdates-block sqs-block-tourdates" data-block-json="{&quot;artistId&quot;:&quot;Andr\u00E9s Cepeda&quot;,&quot;timeframe&quot;:&quot;dateRange&quot;,&quot;startDate&quot;:1664694000000,&quot;endDate&quot;:1669870800000,&quot;hSize&quot;:null,&quot;floatDir&quot;:null}" data-block-type="59" id="block-yui_3_17_2_1_1409157008688_9561"><div class="sqs-block-content">
+
+
+
+<!-- The Tour Dates Block is rendered by Handlebars. -->
+</div><div id="yui_3_17_2_1_1662132837615_591" class="yui3-widget sqs-widget sqs-tourdates-bandsintown-list loaded"><div id="yui_3_17_2_1_1662132837615_593" class="sqs-tourdates-bandsintown-list-content"><script type="application/ld+json">[
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Carnegie Hall - Nueva York - La Ruta P\u00farpura de New York, NY",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572062?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-06T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Carnegie Hall - Nueva York - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "New York",
+        "addressRegion": "NY"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.764875",
+        "longitude": "-73.980498"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572062?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Meridian Arts Center - Toronto - La Ruta P\u00farpura de Toronto, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572098?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-08T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Meridian Arts Center - Toronto - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Toronto",
+        "addressRegion": "ON"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "43.7661379",
+        "longitude": "-79.4142505"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572098?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Th\u00e9\u00e2tre Rialto - Montreal - La Ruta P\u00farpura de Montr\u00e9al, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572124?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-09T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Th\u00e9\u00e2tre Rialto - Montreal - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Montr\u00e9al",
+        "addressRegion": "QC"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "45.523619",
+        "longitude": "-73.60480199999999"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572124?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Bella Concert Hall - Calgary - La Ruta P\u00farpura.  de Calgary, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103663230?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-11T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Bella Concert Hall - Calgary - La Ruta P\u00farpura. ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.0114519",
+        "longitude": "-114.1287672"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103663230?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Vancouver Playhouse - Vancouver - La Ruta P\u00farpura de Vancouver, Canada",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572143?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-12T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Vancouver Playhouse - Vancouver - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Canada",
+        "addressLocality": "Vancouver",
+        "addressRegion": "BC"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.2807738",
+        "longitude": "-123.1125125"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572143?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Variety Playhouse - Atlanta - La Ruta P\u00farpura de Atlanta, GA",
+    "url": "https:\/\/www.bandsintown.com\/e\/103572317?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-17T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Variety Playhouse - Atlanta - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Atlanta",
+        "addressRegion": "GA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "33.7637898",
+        "longitude": "-84.3511292"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103572317?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Plaza Live - Orlando - La Ruta P\u00farpura. de Orlando, FL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573183?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-18T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Plaza Live - Orlando - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Orlando",
+        "addressRegion": "FL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.548815",
+        "longitude": "-81.351832"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573183?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Ferguson Hall - Tampa - La Ruta P\u00farpura de Tampa, FL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573246?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-19T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Ferguson Hall - Tampa - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Tampa",
+        "addressRegion": "FL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "27.9512508",
+        "longitude": "-82.4640967"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573246?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Adrienne Arsht Center - Miami - La Ruta P\u00farpura. de Miami, FL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573262?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-10-20T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Adrienne Arsht Center - Miami - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Miami",
+        "addressRegion": "FL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.784901",
+        "longitude": "-80.189598"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573262?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en The Vic Theatre - Chicago - La Ruta P\u00farpura de Chicago, IL",
+    "url": "https:\/\/www.bandsintown.com\/e\/103662842?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-02T18:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Vic Theatre - Chicago - La Ruta P\u00farpura",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Chicago",
+        "addressRegion": "IL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "41.939517",
+        "longitude": "-87.6538329"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103662842?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en Sixth & I - Washington, DC - La Ruta P\u00farpura. de Washington, DC",
+    "url": "https:\/\/www.bandsintown.com\/e\/1025569249?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-03T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Sixth & I - Washington, DC - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Washington",
+        "addressRegion": "DC"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "38.900734",
+        "longitude": "-77.020112"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/1025569249?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en City Winery - Philadelphia - La Ruta P\u00farpura. de Philadelphia, PA",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573306?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-04T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "City Winery - Philadelphia - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Philadelphia",
+        "addressRegion": "PA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "39.9524744",
+        "longitude": "-75.1562478"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573306?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https:\/\/schema.org",
+    "@type": "MusicEvent",
+    "name": "Andr\u00e9s Cepeda en City Winery - Boston - La Ruta P\u00farpura. de Boston, MA",
+    "url": "https:\/\/www.bandsintown.com\/e\/103573363?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2022-11-05T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "City Winery - Boston - La Ruta P\u00farpura.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Boston",
+        "addressRegion": "MA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "42.3645923",
+        "longitude": "-71.0588692"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Andr\u00e9s Cepeda",
+      "url": "https:\/\/www.bandsintown.com\/Andr%C3%A9s%20Cepeda"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https:\/\/www.bandsintown.com\/t\/103573363?app_id=squarespace-andrescepeda&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  }
+]</script>
+<div class="sqs-tourdates">
+  
+    
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-06T20:00:00">
+              <span class="sqs-tourdates__date">Oct 6, 2022</span>
+              <span class="sqs-tourdates__weekday">Thu</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103572062" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Carnegie Hall - Nueva York - La Ruta Púrpura
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103572062" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    New York, NY, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103572062?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103572062?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-08T20:00:00">
+              <span class="sqs-tourdates__date">Oct 8, 2022</span>
+              <span class="sqs-tourdates__weekday">Sat</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103572098" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Meridian Arts Center - Toronto - La Ruta Púrpura
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103572098" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Toronto, ON, Canada
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103572098?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103572098?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-09T20:00:00">
+              <span class="sqs-tourdates__date">Oct 9, 2022</span>
+              <span class="sqs-tourdates__weekday">Sun</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103572124" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Théâtre Rialto - Montreal - La Ruta Púrpura
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103572124" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Montréal, QC, Canada
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103572124?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103572124?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-11T19:00:00">
+              <span class="sqs-tourdates__date">Oct 11, 2022</span>
+              <span class="sqs-tourdates__weekday">Tue</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103663230" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Bella Concert Hall - Calgary - La Ruta Púrpura. 
+                    
+                    @ 7:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103663230" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Calgary, AB, Canada
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103663230?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103663230?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-12T20:00:00">
+              <span class="sqs-tourdates__date">Oct 12, 2022</span>
+              <span class="sqs-tourdates__weekday">Wed</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103572143" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Vancouver Playhouse - Vancouver - La Ruta Púrpura
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103572143" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Vancouver, BC, Canada
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103572143?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103572143?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-17T20:00:00">
+              <span class="sqs-tourdates__date">Oct 17, 2022</span>
+              <span class="sqs-tourdates__weekday">Mon</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103572317" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Variety Playhouse - Atlanta - La Ruta Púrpura
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103572317" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Atlanta, GA, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103572317?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103572317?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-18T20:00:00">
+              <span class="sqs-tourdates__date">Oct 18, 2022</span>
+              <span class="sqs-tourdates__weekday">Tue</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103573183" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Plaza Live - Orlando - La Ruta Púrpura.
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103573183" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Orlando, FL, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103573183?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103573183?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-19T20:00:00">
+              <span class="sqs-tourdates__date">Oct 19, 2022</span>
+              <span class="sqs-tourdates__weekday">Wed</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103573246" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Ferguson Hall - Tampa - La Ruta Púrpura
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103573246" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Tampa, FL, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103573246?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103573246?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-10-20T20:00:00">
+              <span class="sqs-tourdates__date">Oct 20, 2022</span>
+              <span class="sqs-tourdates__weekday">Thu</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103573262" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Adrienne Arsht Center - Miami - La Ruta Púrpura.
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103573262" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Miami, FL, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103573262?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103573262?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-11-02T18:00:00">
+              <span class="sqs-tourdates__date">Nov 2, 2022</span>
+              <span class="sqs-tourdates__weekday">Wed</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103662842" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      The Vic Theatre - Chicago - La Ruta Púrpura
+                    
+                    @ 6:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103662842" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Chicago, IL, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103662842?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103662842?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-11-03T20:00:00">
+              <span class="sqs-tourdates__date">Nov 3, 2022</span>
+              <span class="sqs-tourdates__weekday">Thu</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/1025569249" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      Sixth &amp; I - Washington, DC - La Ruta Púrpura.
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/1025569249" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Washington, DC, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/1025569249?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/1025569249?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-11-04T20:00:00">
+              <span class="sqs-tourdates__date">Nov 4, 2022</span>
+              <span class="sqs-tourdates__weekday">Fri</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103573306" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      City Winery - Philadelphia - La Ruta Púrpura.
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103573306" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Philadelphia, PA, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103573306?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103573306?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+        <div class="sqs-tourdates__item">
+          <div class="sqs-tourdates__info">
+            <span class="sqs-tourdates__timeframe" data-tour-datetime="2022-11-05T20:00:00">
+              <span class="sqs-tourdates__date">Nov 5, 2022</span>
+              <span class="sqs-tourdates__weekday">Sat</span>
+            </span>
+            <div class="sqs-tourdates__venuelocation">
+              <div class="sqs-tourdates__venue">
+                <a href="https://bandsintown.com/e/103573363" class="sqs-tourdates__venueLink" target="_blank" rel="noopener">
+                  <div class="sqs-tourdates__venue-name">
+                    
+                      City Winery - Boston - La Ruta Púrpura.
+                    
+                    @ 8:00 PM 
+                  </div>
+                  
+                </a>
+              </div>
+              <div class="sqs-tourdates__location">
+                
+                  <a href="https://bandsintown.com/e/103573363" class="sqs-tourdates__venue-link" target="_blank" rel="noopener">
+                    Boston, MA, United States
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+          <div class="sqs-tourdates__actions">
+            
+              
+                <a href="https://www.bandsintown.com/t/103573363?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=ticket&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                  Tickets
+                </a>
+              
+            
+
+            
+              <a href="https://www.bandsintown.com/e/103573363?app_id=squarespace-andrescepeda&amp;came_from=267&amp;utm_medium=api&amp;utm_source=public_api&amp;utm_campaign=event&amp;mkt_source=andrescepeda.com.co" class="sqs-editable-button sqs-button-element--primary sqs-tourdates__button" target="_blank" rel="noopener">
+                Confirmación de asistencia
+              </a>
+            
+          </div>
+        </div>
+      
+    
+  
+</div></div></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1412382430688_10267"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_312">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small" data-button-type="tertiary" id="yui_3_17_2_1_1662132837615_311">
+  <a href="/live" class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" data-initialized="true">
+    PRÓXIMOS eventos
+  </a>
+</div>
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="home-section" class="index-section no-main-image page" data-url-id="home" data-collection-id="5ba16af91ae6cfdd94764f24" data-edit-main-image="Background">
+    <div class="index-section-wrapper" id="yui_3_17_2_1_1662132837615_93">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="home-page" data-url-id="home">
+          <div class="content-inner has-content" id="yui_3_17_2_1_1662132837615_92">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1659015066652" id="page-5ba16af91ae6cfdd94764f24"><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_91"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1662132837615_90"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1556146295799_5505"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_89">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_88">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:100%;" id="yui_3_17_2_1_1662132837615_87">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://andrescepeda.com.co/live" target="_blank" id="yui_3_17_2_1_1662132837615_86">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_85">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:50%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_84">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/9290d74f-9b4b-4b57-9dcd-7f5ed2702c0f/ACepeda_PiezasWeb_5TAFECHA-1.png" alt="" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/9290d74f-9b4b-4b57-9dcd-7f5ed2702c0f/ACepeda_PiezasWeb_5TAFECHA-1.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/9290d74f-9b4b-4b57-9dcd-7f5ed2702c0f/ACepeda_PiezasWeb_5TAFECHA-1.png" data-image-dimensions="1000x500" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62e28f95f298691eb634d4b5" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/9290d74f-9b4b-4b57-9dcd-7f5ed2702c0f/ACepeda_PiezasWeb_5TAFECHA-1.png?format=1500w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1413574954472_8162"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_319">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small" data-button-type="tertiary" id="yui_3_17_2_1_1662132837615_318">
+  <a href="https://bit.ly/LQHOYT" class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" data-initialized="true">
+    escucha ahora 
+  </a>
+</div>
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="band-section" class="index-section no-main-image page alt-section" data-url-id="band" data-collection-id="5ba164da0e2e72476c4d0758" data-edit-main-image="Background">
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="band-page" data-url-id="band">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1656110762857" id="page-5ba164da0e2e72476c4d0758"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-92eb1f38852f888333c5"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;"><strong>Sobre Andrés Cepeda</strong></h2>
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1409943258044_35207"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-9 span-9"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1409943258044_35577"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Productor, cantante y compositor bogotano que cuenta con una trayectoria única, que le ha permitido girar por el mundo; ser portada de múltiples revistas, diarios y Playlist en importantes plataformas musicales, ser jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, participar en shows en vivo y/o grabaciones en estudio con grandes artistas como: Juan Luis Guerra, Jessi &amp;  Joy, Cali &amp; El Dandee, Morat, Joss Favela, Leo Dan, Fonseca, Ricardo Montaner, Kany García, Tommy Torres, entre muchos otros.</p><p class="" style="white-space:pre-wrap;">Nominado trece veces y ganador en tres ocasiones en los Latin Grammy, ha recibido múltiples discos de diamante, platino y oro, ha compartido experiencias inigualables con fans. Su estilo es inconfundible pues propone diferentes formatos musicales y a cada uno le da una identidad propia; full banda, Big Band, Sinfónico, guitarra y voz y el show Compadres (en asocio con Fonseca), más recientemente puso en escena su obra “Cepeda en Tablas” un espectáculo que mezcla el teatro con la música, todo esto ratifica a Andrés Cepeda como uno de los artistas más respetados y queridos de latinoamérica.</p>
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1409943258044_36511"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="{&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:&quot;5ba1650f03ce649decea9312&quot;,&quot;newWindow&quot;:false,&quot;aspect-ratio&quot;:&quot;square&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5ba164da0e2e72476c4d075a&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;lightbox&quot;:false,&quot;padding&quot;:10,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails-per-row&quot;:4,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5ba164da0e2e72476c4d075a&quot;}" data-block-type="8" id="block-873173226a11f7742f43"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-square
+  sqs-gallery-thumbnails-per-row-4
+  
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear" id="yui_3_17_2_1_1662132837615_345">
+  <div class="sqs-gallery sqs-gallery-design-grid" id="yui_3_17_2_1_1662132837615_362">
+    
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662132837615_398">
+              <div class="margin-wrapper">
+                
+                <a role="presentation" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221523792-TQAFUIE2OGPG2PD1AQML/Screenshot+at+Apr+25+14-45-11.png" alt="Screenshot at Apr 25 14-45-11.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221523792-TQAFUIE2OGPG2PD1AQML/Screenshot+at+Apr+25+14-45-11.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221523792-TQAFUIE2OGPG2PD1AQML/Screenshot+at+Apr+25+14-45-11.png" data-image-dimensions="657x651" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5cc20e51971a182e88735ea7" data-type="image" style="left: -1.13364px; top: 0px; width: 248.267px; height: 246px; position: relative;" data-parent-ratio="1.0" alt="Screenshot at Apr 25 14-45-11.png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221523792-TQAFUIE2OGPG2PD1AQML/Screenshot+at+Apr+25+14-45-11.png?format=300w">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662132837615_399">
+              <div class="margin-wrapper">
+                
+                <a role="presentation" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221582814-WV55DXF16Y8MQQX7B4T6/Screenshot+at+Apr+25+14-45-11.png" alt="Screenshot at Apr 25 14-45-11.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221582814-WV55DXF16Y8MQQX7B4T6/Screenshot+at+Apr+25+14-45-11.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221582814-WV55DXF16Y8MQQX7B4T6/Screenshot+at+Apr+25+14-45-11.png" data-image-dimensions="657x651" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5cc20e8cf4e1fc84d1bb7cbd" data-type="image" style="left: -1.13364px; top: 0px; width: 248.267px; height: 246px; position: relative;" data-parent-ratio="1.0" alt="Screenshot at Apr 25 14-45-11.png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221582814-WV55DXF16Y8MQQX7B4T6/Screenshot+at+Apr+25+14-45-11.png?format=300w">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662132837615_400">
+              <div class="margin-wrapper">
+                
+                <a role="presentation" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221593742-N6302CIYZVPT6FIJWABR/Screenshot+at+Apr+25+14-45-11.png" alt="Screenshot at Apr 25 14-45-11.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221593742-N6302CIYZVPT6FIJWABR/Screenshot+at+Apr+25+14-45-11.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221593742-N6302CIYZVPT6FIJWABR/Screenshot+at+Apr+25+14-45-11.png" data-image-dimensions="657x651" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5cc20e976e9a7f3e10da7c16" data-type="image" style="left: -1.13364px; top: 0px; width: 248.267px; height: 246px; position: relative;" data-parent-ratio="1.0" alt="Screenshot at Apr 25 14-45-11.png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221593742-N6302CIYZVPT6FIJWABR/Screenshot+at+Apr+25+14-45-11.png?format=300w">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662132837615_401">
+              <div class="margin-wrapper">
+                
+                <a role="presentation" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221607224-LCMESWEZEL4NJ6AJMTB4/Screenshot+at+Apr+25+14-45-11.png" alt="Screenshot at Apr 25 14-45-11.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221607224-LCMESWEZEL4NJ6AJMTB4/Screenshot+at+Apr+25+14-45-11.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221607224-LCMESWEZEL4NJ6AJMTB4/Screenshot+at+Apr+25+14-45-11.png" data-image-dimensions="657x651" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5cc20ea115fcc0a6899373ba" data-type="image" style="left: -1.13364px; top: 0px; width: 248.267px; height: 246px; position: relative;" data-parent-ratio="1.0" alt="Screenshot at Apr 25 14-45-11.png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556221607224-LCMESWEZEL4NJ6AJMTB4/Screenshot+at+Apr+25+14-45-11.png?format=300w">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-873173226a11f7742f43 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -10px; }
+#block-873173226a11f7742f43 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 10px; margin-bottom: 10px; }
+</style>
+
+
+
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="news-section" class="index-section no-main-image page" data-url-id="news" data-collection-id="5ba1675688251b605ca54829" data-edit-main-image="Background">
+    <div class="index-section-wrapper" id="yui_3_17_2_1_1662132837615_119">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="news-page" data-url-id="news">
+          <div class="content-inner has-content" id="yui_3_17_2_1_1662132837615_118">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1651091276078" id="page-5ba1675688251b605ca54829"><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_117"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1662132837615_116"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b4152acd44e31af266e7"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;"><strong>noticias </strong></h2><p class="" style="white-space:pre-wrap;">&nbsp;</p>
+
+
+</div></div><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_115"><div class="col sqs-col-6 span-6"><div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="{&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;collectionId&quot;:&quot;5ba16450032be417324ce906&quot;,&quot;design&quot;:&quot;list&quot;,&quot;headerText&quot;:&quot;&quot;,&quot;textSize&quot;:&quot;medium&quot;,&quot;pageSize&quot;:5,&quot;imageAspectRatio&quot;:&quot;1&quot;,&quot;columnWidth&quot;:324,&quot;gutter&quot;:60,&quot;listImageSize&quot;:26,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:4,&quot;textAlignment&quot;:&quot;left&quot;,&quot;showTitle&quot;:true,&quot;showThumbnail&quot;:true,&quot;showExcerpt&quot;:true,&quot;showReadMoreLink&quot;:true,&quot;showPrice&quot;:true,&quot;productQuickViewEnabled&quot;:false,&quot;showPastOrUpcomingEvents&quot;:&quot;upcoming&quot;,&quot;metadataPosition&quot;:&quot;above-title&quot;,&quot;primaryMetadata&quot;:&quot;none&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:{},&quot;autoCrop&quot;:true,&quot;lightbox&quot;:false,&quot;mixedContent&quot;:true,&quot;blockId&quot;:&quot;9d0072ac3b4c35410afe&quot;}" data-block-type="55" id="block-yui_3_17_2_1_1409261709948_26533"><div class="sqs-block-content">
+
+
+
+
+
+<div class="
+  summary-block-wrapper
+
+  summary-block-collection-type-blog
+
+  summary-block-setting-text-size-medium
+  summary-block-setting-text-align-left
+
+  summary-block-setting-design-list
+  summary-block-setting-design-list-thumbnail-left
+
+  summary-block-setting-metadata-position-above-title
+  summary-block-setting-primary-metadata-none
+  summary-block-setting-secondary-metadata-none
+
+  summary-block-setting-show-thumbnail
+  summary-block-setting-show-title
+  summary-block-setting-show-price
+  summary-block-setting-show-excerpt
+  summary-block-setting-show-read-more-link
+
+  
+
+  sqs-gallery-design-list
+
+  
+  ">
+
+  <div class="summary-item-list-container sqs-gallery-container" id="yui_3_17_2_1_1662132837615_492">
+
+    <header class="summary-block-header">
+      
+      <div class="summary-heading" data-animation-role="content">
+        
+          <span class="summary-collection-title">NOTICIAS</span>
+        
+      </div>
+
+      
+      <div class="summary-carousel-pager sqs-gallery-controls" data-animation-role="content">
+        <span class="summary-carousel-pager-prev previous" tabindex="0" role="button" aria-label="Anterior"></span>
+        <span class="summary-carousel-pager-next next" tabindex="0" role="button" aria-label="Siguiente"></span>
+      </div>
+
+    </header>
+
+    <div class="summary-item-list sqs-gallery sqs-gallery-design-list" id="yui_3_17_2_1_1662132837615_511">
+      
+        <div class="summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          
+          
+          summary-item-has-author
+          
+           no-image" id="yui_3_17_2_1_1662132837615_516" data-type="image">
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content" style="width: 74%;">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/blog/2022/4/27/andrs-cepeda-lanza-lo-que-haba-olvidado-una-balada-dedicada-a-elisa-restrepo" class="summary-title-link">Andrés Cepeda lanza “Lo que había olvidado”, una balada dedicada a Elisa Restrepo.</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/blog/2022/4/27/andrs-cepeda-lanza-lo-que-haba-olvidado-una-balada-dedicada-a-elisa-restrepo" class="summary-read-more-link">Leer más →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          
+          
+          summary-item-has-author
+          
+           no-image" id="yui_3_17_2_1_1662132837615_518" data-type="image">
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content" style="width: 74%;">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/blog/2022/3/14/entrevista-guitarra-y-voz-la-propuesta-ms-ntima-de-andrs-cepeda" class="summary-title-link">Entrevista: 'Guitarra y voz', la propuesta más íntima de Andrés Cepeda</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/blog/2022/3/14/entrevista-guitarra-y-voz-la-propuesta-ms-ntima-de-andrs-cepeda" class="summary-read-more-link">Leer más →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          
+          
+          summary-item-has-author
+          
+           no-image" id="yui_3_17_2_1_1662132837615_520" data-type="image">
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content" style="width: 74%;">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/blog/2021/10/27/andrs-cepeda-se-une-a-joss-favela-para-lanzar-si-todo-se-acaba" class="summary-title-link">Andrés Cepeda se une a Joss Favela para lanzar “Si todo se acaba”</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/blog/2021/10/27/andrs-cepeda-se-une-a-joss-favela-para-lanzar-si-todo-se-acaba" class="summary-read-more-link">Leer más →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          
+          
+          summary-item-has-author
+          
+           no-image" id="yui_3_17_2_1_1662132837615_522" data-type="image">
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content" style="width: 74%;">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/blog/2021/10/27/andrs-cepeda-presenta-su-proyecto-ntimo-las-canciones-que-cantaba-mi-pap" class="summary-title-link">Andrés Cepeda presenta su proyecto íntimo “Las canciones que cantaba mi papá”</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/blog/2021/10/27/andrs-cepeda-presenta-su-proyecto-ntimo-las-canciones-que-cantaba-mi-pap" class="summary-read-more-link">Leer más →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          
+          
+          summary-item-has-author
+          
+           no-image" id="yui_3_17_2_1_1662132837615_524" data-type="image">
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content" style="width: 74%;">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/blog/2021/10/27/andrs-cepeda-y-ximena-sariana-en-una-nostlgica-colaboracin-que-canta-a-las-historias-de-amor-que-se-van-apagando" class="summary-title-link">Andrés Cepeda y Ximena Sariñana en una nostálgica colaboración que canta a las historias de amor que se van apagando</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/blog/2021/10/27/andrs-cepeda-y-ximena-sariana-en-una-nostlgica-colaboracin-que-canta-a-las-historias-de-amor-que-se-van-apagando" class="summary-read-more-link">Leer más →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+</div></div></div><div class="col sqs-col-5 span-5" id="yui_3_17_2_1_1662132837615_114"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-aspect-ratio="181.59203980099502" data-block-type="5" id="block-yui_3_17_2_1_1537563788721_11116"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_113">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_112">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:448px;" id="yui_3_17_2_1_1662132837615_111">
+          
+        
+        
+
+        
+          
+            <button class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                " data-description="" data-lightbox-theme="dark" id="yui_3_17_2_1_1662132837615_110">
+              <span class="v6-visually-hidden">Ver tamaño completo</span>
+              
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_109">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:181.592041015625%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_108">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556228393371-8QHNNZOS26DFM0AX08XO/Screenshot+at+Apr+25+16-39-28.png" alt="Screenshot at Apr 25 16-39-28.png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556228393371-8QHNNZOS26DFM0AX08XO/Screenshot+at+Apr+25+16-39-28.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556228393371-8QHNNZOS26DFM0AX08XO/Screenshot+at+Apr+25+16-39-28.png" data-image-dimensions="448x653" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5cc22927ec212d9d62f240a7" data-type="image" style="left: -12.2919%; top: 0%; width: 124.584%; height: 100%; position: absolute;" alt="Screenshot at Apr 25 16-39-28.png" data-image-resolution="750w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1556228393371-8QHNNZOS26DFM0AX08XO/Screenshot+at+Apr+25+16-39-28.png?format=750w">
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1409262594429_123453"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1540578298443_13271"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_326">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small" data-button-type="tertiary" id="yui_3_17_2_1_1662132837615_325">
+  <a href="/blog" class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" data-initialized="true">
+    más noticias 
+  </a>
+</div>
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="discografa-section" class="index-section no-main-image page alt-section" data-url-id="discografa" data-collection-id="5bbe3a88b208fc82c6ab68d1" data-edit-main-image="Background">
+    <div class="index-section-wrapper has-main-media" id="yui_3_17_2_1_1662132837615_151">
+
+      <!-- For Pages -->
+
+      
+
+        
+          <div class="index-section-image content-fill" id="yui_3_17_2_1_1662132837615_1061">
+            
+  <div class="sqs-video-background content-fill" data-config-url="https://www.youtube.com/watch?v=-o7dvj72icc" data-config-playback-speed="1" data-config-filter="7" data-config-filter-strength="1" style="filter: saturate(2%);" id="yui_3_17_2_1_1662132837615_1064">
+    
+
+    <iframe id="player" style="position: absolute; inset: 0px 0px 0px -777.944px; width: 2904.89px; height: 1634px;" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Disco de musica o Plato Girando/ Video CLIPS Gratis /Video Fondos /Libre de Copyright /" width="640" height="360" src="https://www.youtube.com/embed/-o7dvj72icc?autohide=1&amp;autoplay=0&amp;controls=0&amp;enablejsapi=1&amp;iv_load_policy=3&amp;loop=0&amp;modestbranding=1&amp;playsinline=1&amp;rel=0&amp;showinfo=0&amp;wmode=opaque&amp;origin=https%3A%2F%2Fandrescepeda.com.co&amp;widgetid=1" class="background-video"></iframe>
+
+  </div>
+
+
+          </div>
+          <div class="index-image-overlay"></div>
+        
+
+        <div class="content page-content has-main-media tmpl-loading" id="discografa-page" data-url-id="discografa">
+          <div class="content-inner has-content" id="yui_3_17_2_1_1662132837615_150">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1659015427721" id="page-5bbe3a88b208fc82c6ab68d1"><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_149"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1662132837615_148"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f03fca6437078d9a0a75"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">ÚLTIMOS LANZAMIENTOS</h2><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p>
+
+
+</div></div><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_147"><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1662132837615_146"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1568985863017_12700"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_145">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_144">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:3000px;" id="yui_3_17_2_1_1662132837615_143">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS?si=d05cd96edc6948b8" target="_blank" id="yui_3_17_2_1_1662132837615_142">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_141">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_140">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/d68a5b9e-5074-44a0-acae-831c8339768f/COVER+-+TU+DESPERTADOR-CEPEDA-REIK.PNG" alt="" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/d68a5b9e-5074-44a0-acae-831c8339768f/COVER+-+TU+DESPERTADOR-CEPEDA-REIK.PNG" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/d68a5b9e-5074-44a0-acae-831c8339768f/COVER+-+TU+DESPERTADOR-CEPEDA-REIK.PNG" data-image-dimensions="3000x3000" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="62e2905bd65e306b4d7b75e6" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/d68a5b9e-5074-44a0-acae-831c8339768f/COVER+-+TU+DESPERTADOR-CEPEDA-REIK.PNG?format=300w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1662132837615_171"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-aspect-ratio="100" data-block-type="5" id="block-yui_3_17_2_1_1556144014961_45599"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_170">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_169">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:1200px;" id="yui_3_17_2_1_1662132837615_168">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://bit.ly/LQHOYT" target="_blank" id="yui_3_17_2_1_1662132837615_167">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_166">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_165">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/ac1a00a2-9d30-475b-a0e9-94410d54db0d/WhatsApp+Image+2022-03-30+at+11.41.29+AM.jpeg" alt="" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/ac1a00a2-9d30-475b-a0e9-94410d54db0d/WhatsApp+Image+2022-03-30+at+11.41.29+AM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/ac1a00a2-9d30-475b-a0e9-94410d54db0d/WhatsApp+Image+2022-03-30+at+11.41.29+AM.jpeg" data-image-dimensions="1200x1200" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="6269a12dfba7247c17363b32" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/ac1a00a2-9d30-475b-a0e9-94410d54db0d/WhatsApp+Image+2022-03-30+at+11.41.29+AM.jpeg?format=300w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1662132837615_191"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1539215237512_12886"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_190">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_189">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:100%;" id="yui_3_17_2_1_1662132837615_188">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://open.spotify.com/album/0cTBbtzcCoKLKhp4nFglcP?si=NQn7ozt-RuqMYKmf6oVfXQ" id="yui_3_17_2_1_1662132837615_187">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_186">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_185">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/62f6108e-46a4-4b74-a62c-52ac7f6c7006/GUITARRA+Y+VOZ+Siluetas.jpg" alt="" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/62f6108e-46a4-4b74-a62c-52ac7f6c7006/GUITARRA+Y+VOZ+Siluetas.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/62f6108e-46a4-4b74-a62c-52ac7f6c7006/GUITARRA+Y+VOZ+Siluetas.jpg" data-image-dimensions="3602x3602" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="622f76404b1b3c2609c17f98" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/62f6108e-46a4-4b74-a62c-52ac7f6c7006/GUITARRA+Y+VOZ+Siluetas.jpg?format=300w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1662132837615_211"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1635364106158_16310"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_210">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_209">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:3000px;" id="yui_3_17_2_1_1662132837615_208">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://www.youtube.com/watch?v=hK7Kl1rha6g" target="_blank" id="yui_3_17_2_1_1662132837615_207">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_206">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_205">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1635364599272-PT2C8WRLO2OOSBG95LMG/SI-TODO-SE-ACABA-CEPEDA-FAVELA.jpg" alt="SI TODO SE ACABA 2021" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1635364599272-PT2C8WRLO2OOSBG95LMG/SI-TODO-SE-ACABA-CEPEDA-FAVELA.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1635364599272-PT2C8WRLO2OOSBG95LMG/SI-TODO-SE-ACABA-CEPEDA-FAVELA.jpg" data-image-dimensions="3000x3000" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="6179aeeefe3b573896bc9626" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" alt="SI TODO SE ACABA 2021" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1635364599272-PT2C8WRLO2OOSBG95LMG/SI-TODO-SE-ACABA-CEPEDA-FAVELA.jpg?format=300w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1540579020256_10553"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_333">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small" data-button-type="tertiary" id="yui_3_17_2_1_1662132837615_332">
+  <a href="/discografa-1" class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" data-initialized="true">
+    MÁS MUSICA
+  </a>
+</div>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1545418616307_10555"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1545418616307_11806"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1545349893430_7162"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">tienda </h2><p style="text-align:center;white-space:pre-wrap;" class="">Encuentra nuestras&nbsp;<strong><em>promociones</em></strong>&nbsp;en artículos oficiales y Productos exclusivos. </p>
+
+
+</div></div><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_232"><div class="col sqs-col-4 span-4" id="yui_3_17_2_1_1662132837615_231"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1545350313887_8360"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_230">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_229">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:683px;" id="yui_3_17_2_1_1662132837615_228">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://tiendacepeda.com/index.php/product/vitrola/" id="yui_3_17_2_1_1662132837615_227">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_226">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_225">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350714602-B3UX55CFI7R750F56BZN/vitrola-cepeda.jpg" alt="VITROLA CEPEDA" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350714602-B3UX55CFI7R750F56BZN/vitrola-cepeda.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350714602-B3UX55CFI7R750F56BZN/vitrola-cepeda.jpg" data-image-dimensions="683x683" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c1c2e3970a6ad869e034731" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" alt="VITROLA CEPEDA" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350714602-B3UX55CFI7R750F56BZN/vitrola-cepeda.jpg?format=500w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">VITROLA CEPEDA</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong><br></strong></p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4" id="yui_3_17_2_1_1662132837615_252"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1545350313887_9923"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_251">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_250">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:600px;" id="yui_3_17_2_1_1662132837615_249">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://tiendacepeda.com/index.php/product/lo-mejor-que-hay-en-mi-vida/" id="yui_3_17_2_1_1662132837615_248">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_247">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_246">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350586426-D0PSSLPMVJSJV0MNB2L8/New+york+con+w+QUEENS+COLLEGE.jpg" alt="LO MEJOR QUE HAY EN MI VIDA" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350586426-D0PSSLPMVJSJV0MNB2L8/New+york+con+w+QUEENS+COLLEGE.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350586426-D0PSSLPMVJSJV0MNB2L8/New+york+con+w+QUEENS+COLLEGE.jpg" data-image-dimensions="600x600" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c1c2dba2b6a284e830888a4" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" alt="LO MEJOR QUE HAY EN MI VIDA" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350586426-D0PSSLPMVJSJV0MNB2L8/New+york+con+w+QUEENS+COLLEGE.jpg?format=500w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><strong><br></strong>LO MEJOR QUE HAY EN MI VIDA</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4" id="yui_3_17_2_1_1662132837615_272"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1545350313887_13839"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_271">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+         sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_270">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:600px;" id="yui_3_17_2_1_1662132837615_269">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://tiendacepeda.com/index.php/product/libro-mil-canciones-que-cantarte/" id="yui_3_17_2_1_1662132837615_268">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_267">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_266">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350906609-0MW9539NQ922GMXXYV8Y/mil-canciones-que-cantarte-final-600x869.jpg" alt="LIBRO MIL CANCIONES QUE CANTARTE" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350906609-0MW9539NQ922GMXXYV8Y/mil-canciones-que-cantarte-final-600x869.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350906609-0MW9539NQ922GMXXYV8Y/mil-canciones-que-cantarte-final-600x869.jpg" data-image-dimensions="600x600" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c1c2ef903ce6462f7f085e9" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" alt="LIBRO MIL CANCIONES QUE CANTARTE" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1545350906609-0MW9539NQ922GMXXYV8Y/mil-canciones-que-cantarte-final-600x869.jpg?format=500w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">LIBRO MIL CANCIONES QUE CANTARTE</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1545350313887_16918"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_340">
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small" data-button-type="tertiary" id="yui_3_17_2_1_1662132837615_339">
+  <a href="https://tiendacepeda.com/" class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" data-initialized="true">
+    Ver más
+  </a>
+</div>
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+          </div>
+        </main>
+
+        <div id="preFooter">
+          <div class="pre-footer-inner with-custom">
+  <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Contenido del pre-pie de página" data-type="block-field" data-updated-on="1541038820711" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1541037769208_33763"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-small social-icons-style-regular ">
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/andrescepeda/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/andrescepedaoficial/?ref=bookmarks" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="Nico Gallego Torres">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/andrescepeda" target="_blank" class="sqs-svg-icon--wrapper twitter" aria-label="Andrés Cepeda">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.youtube.com/channel/UCHkLu9m9qA7uu5jwMefB2dA" target="_blank" class="sqs-svg-icon--wrapper youtube" aria-label="Andrés Cepeda En Vivo">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#youtube-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#youtube-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://itunes.apple.com/co/artist/andres-cepeda/id139985795" target="_blank" class="sqs-svg-icon--wrapper itunes" aria-label="iTunes Store">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#itunes-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#itunes-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6?si=aAPE-z5rQP2XNw-haU0i9w" target="_blank" class="sqs-svg-icon--wrapper spotify-unauth" aria-label="Spotify">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#spotify-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#spotify-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.tiktok.com/@andrescepedamusica?lang=en&amp;source=app" target="_blank" class="sqs-svg-icon--wrapper tiktok-unauth" aria-label="TikTok">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#tiktok-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#tiktok-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+</div>
+
+        </div>
+
+        <footer id="footer" role="contentinfo">
+          <div class="footer-inner" id="yui_3_17_2_1_1662132837615_294">
+            <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Volver arriba</a></div></nav></div>
+            
+
+
+            
+            <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Contenido del pie de página" data-type="block-field" data-updated-on="1541037207966" id="footerBlocks"><div class="row sqs-row" id="yui_3_17_2_1_1662132837615_293"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1662132837615_292"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-aspect-ratio="37.28813559322034" data-block-type="5" id="block-yui_3_17_2_1_1540841082406_4098"><div class="sqs-block-content" id="yui_3_17_2_1_1662132837615_291">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662132837615_290">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:118px;" id="yui_3_17_2_1_1662132837615_289">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="/welcome" id="yui_3_17_2_1_1662132837615_288">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662132837615_287">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:37.28813552856445%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662132837615_286">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png" alt="Logo .png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png" data-image-dimensions="118x44" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bd75e921905f4f40ec23190" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" alt="Logo .png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png?format=300w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+          </div>
+        </footer>
+
+        
+
+      </div>
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"></path></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"></path></symbol><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"></path></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"></path></symbol><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"></path></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"></path></symbol><symbol id="youtube-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"></path></symbol><symbol id="youtube-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"></path></symbol><symbol id="itunes-icon" viewBox="0 0 64 64"><path d="M41.784,28.836c0,3.5,0.002,7-0.002,10.499c0,0.767-0.105,1.519-0.446,2.217c-0.53,1.086-1.399,1.768-2.55,2.095c-0.642,0.183-1.297,0.288-1.965,0.318c-1.749,0.083-3.261-1.103-3.574-2.823c-0.26-1.419,0.419-2.984,1.91-3.715c0.595-0.294,1.23-0.458,1.871-0.596c0.695-0.15,1.393-0.282,2.084-0.441c0.504-0.116,0.84-0.424,0.939-0.948c0.023-0.116,0.033-0.236,0.033-0.355c0.002-3.336,0.002-6.67-0.002-10.005c0-0.114-0.019-0.23-0.047-0.34c-0.072-0.277-0.274-0.446-0.559-0.43c-0.294,0.017-0.584,0.064-0.873,0.122c-1.397,0.275-2.793,0.559-4.189,0.84c-1.425,0.286-2.851,0.576-4.278,0.864c-0.842,0.171-1.684,0.34-2.525,0.51c-0.03,0.006-0.059,0.016-0.088,0.023c-0.509,0.141-0.693,0.374-0.717,0.9c-0.003,0.08-0.002,0.16-0.002,0.241c-0.002,4.782,0,9.565-0.003,14.345c0,0.773-0.086,1.537-0.396,2.255c-0.512,1.18-1.416,1.914-2.636,2.269c-0.645,0.186-1.307,0.293-1.976,0.316c-1.762,0.066-3.225-1.105-3.527-2.838c-0.261-1.494,0.422-3.098,2.119-3.816c0.656-0.275,1.344-0.427,2.036-0.571c0.527-0.111,1.056-0.211,1.582-0.324c0.703-0.153,1.07-0.595,1.1-1.313c0.003-0.094,0.002-0.183,0.002-0.277c0-5.44,0-10.882,0.003-16.323c0-0.227,0.023-0.46,0.077-0.681c0.128-0.524,0.502-0.823,1.003-0.953c0.469-0.122,0.947-0.207,1.422-0.304c1.347-0.272,2.694-0.543,4.042-0.814c1.393-0.282,2.784-0.562,4.176-0.843c1.23-0.249,2.46-0.501,3.693-0.743c0.404-0.08,0.814-0.161,1.22-0.194c0.57-0.045,0.961,0.313,1.019,0.886c0.014,0.136,0.022,0.274,0.022,0.412C41.786,21.814,41.786,25.325,41.784,28.836L41.784,28.836z"></path></symbol><symbol id="itunes-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M41.783,39.335c0,0.767-0.105,1.519-0.446,2.217c-0.53,1.086-1.399,1.768-2.55,2.095c-0.641,0.183-1.297,0.288-1.965,0.318c-1.749,0.083-3.261-1.103-3.574-2.823c-0.26-1.419,0.419-2.984,1.911-3.715c0.595-0.294,1.23-0.458,1.871-0.596c0.695-0.15,1.393-0.282,2.084-0.441c0.504-0.116,0.84-0.424,0.939-0.948c0.023-0.116,0.033-0.236,0.033-0.355c0.002-3.336,0.002-6.67-0.002-10.005c0-0.114-0.019-0.23-0.047-0.34c-0.072-0.277-0.274-0.446-0.559-0.43c-0.294,0.017-0.584,0.064-0.873,0.122c-1.397,0.275-2.793,0.559-4.189,0.84c-1.425,0.286-2.851,0.576-4.278,0.864c-0.842,0.171-1.684,0.34-2.525,0.51c-0.03,0.006-0.059,0.016-0.088,0.023c-0.509,0.141-0.693,0.374-0.717,0.9c-0.003,0.08-0.002,0.16-0.002,0.241c-0.002,4.782,0,9.565-0.003,14.345c0,0.773-0.086,1.536-0.396,2.255c-0.512,1.18-1.416,1.914-2.636,2.269c-0.645,0.186-1.307,0.293-1.976,0.316c-1.762,0.066-3.225-1.105-3.527-2.838c-0.261-1.494,0.422-3.098,2.119-3.816c0.656-0.275,1.344-0.427,2.036-0.571c0.527-0.111,1.056-0.211,1.582-0.324c0.703-0.153,1.07-0.595,1.1-1.313c0.003-0.094,0.002-0.183,0.002-0.277c0-5.44,0-10.882,0.003-16.323c0-0.227,0.023-0.46,0.077-0.681c0.128-0.524,0.502-0.823,1.003-0.953c0.469-0.122,0.947-0.207,1.422-0.304c1.347-0.272,2.694-0.543,4.042-0.814c1.393-0.282,2.784-0.562,4.176-0.843c1.23-0.249,2.46-0.501,3.693-0.743c0.404-0.08,0.814-0.161,1.22-0.194c0.57-0.045,0.961,0.313,1.019,0.886c0.014,0.136,0.022,0.274,0.022,0.411c0.003,3.513,0.003,7.024,0.002,10.535C41.784,32.336,41.786,35.836,41.783,39.335z"></path></symbol><symbol id="spotify-unauth-icon" viewBox="0 0 64 64"><path d="M32,16c-8.8,0-16,7.2-16,16c0,8.8,7.2,16,16,16c8.8,0,16-7.2,16-16C48,23.2,40.8,16,32,16 M39.3,39.1c-0.3,0.5-0.9,0.6-1.4,0.3c-3.8-2.3-8.5-2.8-14.1-1.5c-0.5,0.1-1.1-0.2-1.2-0.7c-0.1-0.5,0.2-1.1,0.8-1.2 c6.1-1.4,11.3-0.8,15.5,1.8C39.5,38,39.6,38.6,39.3,39.1 M41.3,34.7c-0.4,0.6-1.1,0.8-1.7,0.4c-4.3-2.6-10.9-3.4-15.9-1.9 c-0.7,0.2-1.4-0.2-1.6-0.8c-0.2-0.7,0.2-1.4,0.8-1.6c5.8-1.8,13-0.9,18,2.1C41.5,33.4,41.7,34.1,41.3,34.7 M41.5,30.2 c-5.2-3.1-13.7-3.3-18.6-1.9c-0.8,0.2-1.6-0.2-1.9-1c-0.2-0.8,0.2-1.6,1-1.9c5.7-1.7,15-1.4,21,2.1c0.7,0.4,0.9,1.3,0.5,2.1 C43.1,30.4,42.2,30.6,41.5,30.2"></path></symbol><symbol id="spotify-unauth-mask" viewBox="0 0 64 64"><path d="M39,37.7c-4.2-2.6-9.4-3.2-15.5-1.8c-0.5,0.1-0.9,0.7-0.8,1.2c0.1,0.5,0.7,0.9,1.2,0.7c5.6-1.3,10.3-0.8,14.1,1.5 c0.5,0.3,1.1,0.1,1.4-0.3C39.6,38.6,39.5,38,39,37.7z M40.9,33c-4.9-3-12.2-3.9-18-2.1c-0.7,0.2-1,0.9-0.8,1.6 c0.2,0.7,0.9,1,1.6,0.8c5.1-1.5,11.6-0.8,15.9,1.9c0.6,0.4,1.4,0.2,1.7-0.4C41.7,34.1,41.5,33.4,40.9,33z M0,0v64h64V0H0z M32,48 c-8.8,0-16-7.2-16-16c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16C48,40.8,40.8,48,32,48z M43,27.6c-5.9-3.5-15.3-3.9-21-2.1 c-0.8,0.2-1.2,1.1-1,1.9c0.2,0.8,1.1,1.2,1.9,1c4.9-1.5,13.4-1.2,18.6,1.9c0.7,0.4,1.6,0.2,2.1-0.5C43.9,29,43.7,28,43,27.6z"></path></symbol><symbol id="tiktok-unauth-icon" viewBox="0 0 64 64"><path d="M37.9281 17C38.4298 21.2545 40.825 23.7941 45 24.0658V28.8451C42.5859 29.0794 40.4652 28.3016 38.0038 26.821V35.7423C38.0038 47.147 25.4788 50.7361 20.4233 42.5457C17.1856 37.3073 19.1642 28.1048 29.5496 27.73V32.781C28.7296 32.9058 27.9219 33.1002 27.1355 33.362C24.835 34.1398 23.5191 35.583 23.8883 38.1413C24.5889 43.033 33.6584 44.4856 32.901 34.9176V17H37.9091H37.9281Z"></path></symbol><symbol id="tiktok-unauth-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0V64H64V0ZM45.44 23.54C41 23.25 38.5 20.54 38 16H32.68V35.12C33.48 45.33 23.9 43.78 23.16 38.56C22.78 35.83 24.16 34.29 26.6 33.46C27.4272 33.1806 28.2771 32.9732 29.14 32.84V27.45C18.18 27.85 16.08 37.67 19.5 43.26C24.82 52 38.05 48.17 38.05 36V26.48C40.65 28.06 42.89 28.89 45.44 28.64V23.54Z"></path></symbol></svg>
+
+  
+
+</body></html>
