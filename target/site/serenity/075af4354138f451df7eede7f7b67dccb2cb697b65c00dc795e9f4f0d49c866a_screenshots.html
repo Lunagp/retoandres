@@ -94,7 +94,7 @@
         <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
         <div id="projectname-banner" style="float:right">
             <span class="projectname">
-                <span class="projecttitle">andrescepeda</span>
+                <span class="projecttitle">retoandres</span>
                 <span class="projectsubtitle"></span>
             </span>
         </div>
@@ -131,7 +131,7 @@
             <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 02-09-2022 08:54</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 02-09-2022 10:19</span>
     <br style="clear:left"/>
 </div>
 
@@ -166,9 +166,9 @@
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></span>
+                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
                             <span class="test-case-title">
-                                <span class="success-color">Interact on the page Photos
+                                <span class="error-color">Interact on the page Photos
                                     <span class="related-issue-title"></span>
                                 </span>
                             </span>
@@ -185,19 +185,54 @@
 
     <div id="beforetable"></div>
     <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">No such window exception: no such window: target window already closed</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-overall">
+            <div class="card">
+                <div class="card-header">
+                    <h4>org.openqa.selenium.NoSuchWindowException </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>co.com.andrescepeda.stepdefinitions.PhotosStepDefinition.select_the_option_Photos_and_select_the_second_image(PhotosStepDefinition.java:52)<br />✽.select the option Photos and select the second image(src/test/resources/features/photos.feature:4)<br /></pre>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                <div class="panel-body">
+                    <a href="#" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
-                <img src="1d704eabab612936d9b355f6ed7e776efb4c3dc255f74fcae75c958f4466b6af.png" title=" Given that enter the website &quot;https://andrescepeda.com.co/&quot;" width="1366"/>
-                <img src="1d704eabab612936d9b355f6ed7e776efb4c3dc255f74fcae75c958f4466b6af.png" title=" Andres opens the https://andrescepeda.com.co/" width="1366"/>
-                <img src="1d704eabab612936d9b355f6ed7e776efb4c3dc255f74fcae75c958f4466b6af.png" title=" Given that enter the website &quot;https://andrescepeda.com.co/&quot; (completed)" width="1366"/>
-                <img src="334ea16c5d6ec374ef6b19773f43dd332b9ffacdfad65668a8a8c4ca37b3900f.png" title=" When select the option Photos and select the second image" width="1366"/>
-                <img src="334ea16c5d6ec374ef6b19773f43dd332b9ffacdfad65668a8a8c4ca37b3900f.png" title=" Andres select photo" width="1366"/>
-                <img src="334ea16c5d6ec374ef6b19773f43dd332b9ffacdfad65668a8a8c4ca37b3900f.png" title=" Andres clicks on Bot&oacute;n opci&oacute;n de fotos" width="1366"/>
-                <img src="78394bd90ff03541c8b672b706f38bda36fb4546f319114328effd4c0a2ce98e.png" title=" Andres select photo (completed)" width="1366"/>
-                <img src="db16d04ce98ab440009fceca030ba703b4a51542bc1557390593a9d67d53cf8e.png" title=" When select the option Photos and select the second image (completed)" width="1366"/>
-                <img src="db16d04ce98ab440009fceca030ba703b4a51542bc1557390593a9d67d53cf8e.png" title=" Then should validate that the information name, price of the first and second item, is displayed in the console and compared with a text." width="1366"/>
-                <img src="db16d04ce98ab440009fceca030ba703b4a51542bc1557390593a9d67d53cf8e.png" title=" Then obtain information photo should be (false)" width="1366"/>
-                <img src="db16d04ce98ab440009fceca030ba703b4a51542bc1557390593a9d67d53cf8e.png" title=" Then should validate that the information name, price of the first and second item, is displayed in the console and compared with a text. (completed): <span class='success-color'>SUCCESS</span>" width="1366"/>
+                <img src="d8ae95e435bff4c25e254f935996f40e127659d85441a1334f4ff26f1937f87f.png" title=" Given that enter the website &quot;https://andrescepeda.com.co/&quot;" width="1366"/>
+                <img src="d8ae95e435bff4c25e254f935996f40e127659d85441a1334f4ff26f1937f87f.png" title=" Luna opens the https://andrescepeda.com.co/" width="1366"/>
+                <img src="d8ae95e435bff4c25e254f935996f40e127659d85441a1334f4ff26f1937f87f.png" title=" Given that enter the website &quot;https://andrescepeda.com.co/&quot; (completed)" width="1366"/>
+                <img src="2c8c36c0fc0cf1a3847a721d54ae4aead31728b58a5ef7d2e9ade05851109d9f.png" title=" When select the option Photos and select the second image" width="1366"/>
+                <img src="2c8c36c0fc0cf1a3847a721d54ae4aead31728b58a5ef7d2e9ade05851109d9f.png" title=" Luna select photo" width="1366"/>
+                <img src="2c8c36c0fc0cf1a3847a721d54ae4aead31728b58a5ef7d2e9ade05851109d9f.png" title=" Luna clicks on Bot&oacute;n opci&oacute;n de fotos" width="1366"/>
+                <img src="8c75cc17a1578304b2d9fcd0acbf33b5c9e9ab70ddb08ee072480b6a372381b5.png" title=" Luna select photo (completed): <span class='error-color'>ERROR</span>" width="1366"/>
             </div>
         </div>
 
