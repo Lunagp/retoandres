@@ -1,0 +1,2149 @@
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="es-CO" class="yui3-js-enabled js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths wf-alibabasans-n4-active wf-alibabasans-n5-active wf-alibabasans-n7-active wf-alibabasans-i4-active wf-alibabasans-i7-active wf-active" style="" id="yui_3_17_2_1_1662126268482_92"><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- andrescepeda -->
+<base href="">
+<meta charset="utf-8">
+<title>FOTOS — ANDRÉS CEPEDA</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1539277316567-S3YX79TW0WC9YLWXB5NF/favicon.ico">
+<link rel="canonical" href="https://andrescepeda.com.co/media">
+<meta property="og:site_name" content="ANDRÉS CEPEDA">
+<meta property="og:title" content="FOTOS — ANDRÉS CEPEDA">
+<meta property="og:url" content="https://andrescepeda.com.co/media">
+<meta property="og:type" content="website">
+<meta itemprop="name" content="FOTOS — ANDRÉS CEPEDA">
+<meta itemprop="url" content="https://andrescepeda.com.co/media">
+<meta name="twitter:title" content="FOTOS — ANDRÉS CEPEDA">
+<meta name="twitter:url" content="https://andrescepeda.com.co/media">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="">
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/GkNSeBFv-XzVO6gjwBGBYdRCWZo33NIrLNfikT92vp9feGIIfFHN4UJLFRbh52jhWDmKjQIhwAjkF29aFDZ8ZAmqwQMkFhmRZs7JMkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcB0ZY48ShF8SemqjPoDSWmyScmDSeBRZPoRdhXCHKoySkolZP37O1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80Zko0ZWbCjAoqScmDjhm3ZAsyOcFzdPoRdkUydcskZWFRZWg8ZeI0SaBujW48Sagyjh90jhNlOeBDOcu8OeUzjhBC-eNDifUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcB0ZY48ShF8SemqjPoRdhX0jhvCiaiaOcB0ZY48ShF8SemqjPoDSWmyScmDSeBRZPoRdhXCiaiaOcBDOcu8OYiaikoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlJ6Uyde8KjA4yOWFyd1w7f6Rgt6JbMg6IJMJ7f6R2t6JbMg6BJMJ7f6RBt6JbMg6YJMJ7f6Rft6JbMg65JMJ7f6Ret6JbMg6sJMHbMiKs8obe.js"></script>
+<style type="text/css">@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/7d0467/00000000000000007735c5b6/30/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/7d0467/00000000000000007735c5b6/30/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/7d0467/00000000000000007735c5b6/30/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/67109b/00000000000000007735c5bc/30/l?subset_id=2&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/67109b/00000000000000007735c5bc/30/d?subset_id=2&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/67109b/00000000000000007735c5bc/30/a?subset_id=2&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/21c0ec/00000000000000007735c5c2/30/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/21c0ec/00000000000000007735c5c2/30/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/21c0ec/00000000000000007735c5c2/30/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/d3c04c/00000000000000007735c5ba/30/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/d3c04c/00000000000000007735c5ba/30/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/d3c04c/00000000000000007735c5ba/30/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:alibaba-sans;src:url(https://use.typekit.net/af/c3fbcc/00000000000000007735c5c8/30/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/c3fbcc/00000000000000007735c5c8/30/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/c3fbcc/00000000000000007735c5c8/30/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}</style><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Abel:wght@400&amp;family=Source+Code+Pro:wght@300;400;700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4301ad736d8e2d570bd1b-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4301ad736d8e2d570bd1b-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-c9c84fb925443b6ecf112-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-c9c84fb925443b6ecf112-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-635684e26283edd75dad6-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-a99bfd704f08d86ca2c5f-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-635684e26283edd75dad6-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-9497d1b167907bcaf8275-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-9497d1b167907bcaf8275-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-70d7cd838fda1bb31ddfb-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-70d7cd838fda1bb31ddfb-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-981a580bd88f71265360c-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-981a580bd88f71265360c-min.es-419.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-c64daf1e4d0a3dba03bd5-min.es-419.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-c64daf1e4d0a3dba03bd5-min.es-419.js" defer=""></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-139e657033e559fbeffb0-min.es-419.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-9fbcf378e96d6aeea0d01-min.es-419.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-57b4a96a3a5c02a3d8f87-min.es-419.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-781c722f252eb767bedf5-min.es-419.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-76a37e1ec86cf28b3d899-min.es-419.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-2474dc7bfa7d1cebae461-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-4b9d09b75166477937e71-min.es-419.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-ba971daeed367d6255ef2-min.es-419.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-99e65cf52d60ae42d1689-min.es-419.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-4db22975614d0bc4626f4-min.es-419.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-905deeba97cb78e158948-min.es-419.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-60a0b1e81976960c38d95-min.es-419.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-8804675084a3982b022e3-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-00bcf795da365f4d25db3-min.es-419.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-7303da69d484bae42a365-min.es-419.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-225c7709a4e33a106e569-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-67ad56c513982a5661f74-min.es-419.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-5d6c4f164c4ab5457107a-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-33d53ba98c915841f475a-min.es-419.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-8804675084a3982b022e3-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-5b257123b0d3acb48a5c8-min.es-419.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-8804675084a3982b022e3-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-6c9c4ba28490e315b2f89-min.es-419.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-dd173a23c0d46da737ca9-min.es-419.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-f13b131daa5d01f535e9e-min.es-419.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-e9dd34f9b9cbad02f0ddd-min.es-419.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c206e2a78151ac4eff237-min.es-419.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-1acc21abf00c51f91be37-min.es-419.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.es-419.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-e3e359ea7485de586bda6-min.es-419.js"}},"pageType":1,"website":{"id":"5ba161f245776eeed1027ece","identifier":"andrescepeda","websiteType":1,"contentModifiedOn":1661910767648,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"es-CO","timeZone":"America/Bogota","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"COT","siteTitle":"ANDR\u00C9S CEPEDA","fullSiteTitle":"FOTOS \u2014 ANDR\u00C9S CEPEDA","siteDescription":"<p>Productor, cantante y compositor bogotano que cuenta con una trayectoria \u00FAnica, que le ha permitido girar por el mundo, ser portada de m\u00FAltiples revistas y diarios, participar como jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, figurar en listados de &nbsp;plataformas digitales, ser invitado a cantar en vivo y en estudio con artistas como: Fonseca, Ricardo Montaner, Kany Garc\u00EDa, Tommy Torres, Juan Luis Guerra, Leo Dan entre otros; ser nominado y ganador de Grammy latino, compartir experiencias inigualables con fans, proponer diferentes formatos musicales como, Big Band, Sinf\u00F3nico, guitarra y voz y m\u00E1s recientemente Cepeda en Tablas un espect\u00E1culo que mezcla el teatro con la m\u00FAsica; todo esto ratifica a Andr\u00E9s Cepeda como uno de los artistas m\u00E1s respetados y queridos de Colombia.</p>","location":{"mapLat":4.6917079,"mapLng":-74.03878029999998,"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"5bd7599a8165f5a5e927e2a9","shareButtonOptions":{"3":true,"6":true,"4":true,"2":true,"7":true,"8":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540839834327-2NHFDQZIVW3JFDPVP48U/Logo+.png","authenticUrl":"https://andrescepeda.com.co","internalUrl":"https://andrescepeda.squarespace.com","baseUrl":"https://andrescepeda.com.co","primaryDomain":"andrescepeda.com.co","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":64,"screenname":"Instagram","addedOn":1652822697757,"profileUrl":"https://www.instagram.com/andrescepeda/","iconEnabled":true,"serviceName":"instagram-unauth"},{"serviceId":60,"userId":"10161203351610145","screenname":"Nico Gallego Torres","addedOn":1541059161326,"profileUrl":"https://www.facebook.com/andrescepedaoficial/?ref=bookmarks","iconUrl":"http://graph.facebook.com/10161203351610145/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":4,"userId":"146985042","userName":"andrescepeda","screenname":"Andr\u00E9s Cepeda","addedOn":1537543675726,"profileUrl":"https://twitter.com/andrescepeda","iconUrl":"http://pbs.twimg.com/profile_images/1032839553361608708/oxKOEW1F_normal.jpg","collectionId":"5ba50dfbf4e53148da974c07","iconEnabled":true,"serviceName":"twitter"},{"serviceId":11,"userId":"UCMKBjFBAIunBkWNUCCRKg2Q","screenname":"Andr\u00E9s Cepeda En Vivo","addedOn":1541059977055,"profileUrl":"https://www.youtube.com/channel/UCHkLu9m9qA7uu5jwMefB2dA","iconUrl":"https://yt3.ggpht.com/a-/AN66SAzsXGUN1kiNloiPm-4eLLJLAH-OPgd-kq5C5g=s88-mo-c-c0xffffffff-rj-k-no","iconEnabled":true,"serviceName":"youtube"},{"serviceId":27,"userName":"iTunes Store","screenname":"iTunes Store","addedOn":1541059272249,"profileUrl":"https://itunes.apple.com/co/artist/andres-cepeda/id139985795","iconEnabled":true,"serviceName":"itunes"},{"serviceId":71,"screenname":"Spotify","addedOn":1652822651301,"profileUrl":"https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6?si=aAPE-z5rQP2XNw-haU0i9w","iconEnabled":true,"serviceName":"spotify-unauth"},{"serviceId":82,"screenname":"TikTok","addedOn":1652822757569,"profileUrl":"https://www.tiktok.com/@andrescepedamusica?lang=en&amp;source=app","iconEnabled":true,"serviceName":"tiktok-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"b31721d65a006f3555e9b287b0dd6001fe18161bb285c8cc8d86501c2a803ca9","showOwnerLogin":false},"websiteSettings":{"id":"5ba161f245776eeed1027ed1","websiteId":"5ba161f245776eeed1027ece","type":"Personal","subjects":[],"country":"CO","state":"","simpleLikingEnabled":true,"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"FOTOS","id":"5bd36501eef1a1c658a8dc21","fullUrl":"/media","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","design":"Slideshow","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-controls":"Arrows","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","grid-aspect-ratio":"1:1 (Square)","gridSize":"350px","gridSpacing":"20px","headerPadding":"30px","homepage-index-nav":"Show On Scroll","logoWidth":"140px","product-gallery-auto-crop":"false","product-image-auto-crop":"false","siteTitleContainerWidth":"255px","slideshow-aspect-ratio":"16:9 (Widescreen)","slideshow-autoplay":"true","slideshow-transition":"Fade","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52e96934e4b0ea14d0f64568","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/","betaFeatureFlags":["commerce_etsy_product_import","crm_show_subscriber_import_in_profiles","commerce_visitor_cldr_currency_formatter","campaigns_new_subscriber_search","reduce_general_search_api_traffic","customer_accounts_email_verification","marketing_landing_page","commerce_etsy_shipping_import","scheduling_block_schema_editor","commerce_restock_notifications","customer_account_creation_recaptcha","campaigns_thumbnail_layout","member_areas_spanish_interviews","crm_remove_subscriber","campaigns_global_uc_ab","nested_categories_migration_enabled","commerce_clearpay","crm_default_newsletter_block_to_campaigns","background_image_effect_options","viewer-role-contributor-invites","commerce_order_status_access","asset_uploader_refactor","block_annotations_revamp","fluid_engine_block_centering","commerce_site_visitor_metrics","campaigns_asset_picker","campaigns_content_editing_survey","background_art_onboarding","member_areas_schedule_interview","campaigns_labor_day_email","send_local_pickup_ready_email"],"videoAssetsFeatureFlags":[],"impersonatedSession":false,"tzData":{"zones":[[-300,"CO","-05/-04",null]],"rules":{"CO":[]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://andrescepeda.com.co/media?format=rss">
+<script type="application/ld+json">{"url":"https://andrescepeda.com.co","name":"ANDR\u00C9S CEPEDA","description":"<p>Productor, cantante y compositor bogotano que cuenta con una trayectoria \u00FAnica, que le ha permitido girar por el mundo, ser portada de m\u00FAltiples revistas y diarios, participar como jurado en programas de talento, lograr primeros lugares en la radio con innumerables sencillos, figurar en listados de &nbsp;plataformas digitales, ser invitado a cantar en vivo y en estudio con artistas como: Fonseca, Ricardo Montaner, Kany Garc\u00EDa, Tommy Torres, Juan Luis Guerra, Leo Dan entre otros; ser nominado y ganador de Grammy latino, compartir experiencias inigualables con fans, proponer diferentes formatos musicales como, Big Band, Sinf\u00F3nico, guitarra y voz y m\u00E1s recientemente Cepeda en Tablas un espect\u00E1culo que mezcla el teatro con la m\u00FAsica; todo esto ratifica a Andr\u00E9s Cepeda como uno de los artistas m\u00E1s respetados y queridos de Colombia.</p>","image":"//images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540839834327-2NHFDQZIVW3JFDPVP48U/Logo+.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","email":"","telephone":"","sameAs":["https://www.instagram.com/andrescepeda/","https://www.facebook.com/andrescepedaoficial/?ref=bookmarks","https://twitter.com/andrescepeda","https://www.youtube.com/channel/UCHkLu9m9qA7uu5jwMefB2dA","https://itunes.apple.com/co/artist/andres-cepeda/id139985795","https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6?si=aAPE-z5rQP2XNw-haU0i9w","https://www.tiktok.com/@andrescepedamusica?lang=en&amp;source=app"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","image":"https://static1.squarespace.com/static/5ba161f245776eeed1027ece/t/5bd7599a8165f5a5e927e2a9/1661910767648/","name":"","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5ba161f245776eeed1027ece/51/52e96934e4b0ea14d0f64568/5ba161f245776eeed1027ee3/1128/site.css"><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  <style type="text/css">.disable-hover:not(.sqs-layout-editing) #siteWrapper, .disable-hover:not(.sqs-layout-editing) #siteWrapper * {pointer-events: none !important;}</style></head>
+  
+  <body id="collection-5bd36501eef1a1c658a8dc21" class="transparent-header expand-homepage-index-links homepage-index-nav-show-on-scroll show-page-title index-section-separation-border design-slideshow grid-aspect-ratio-11-square grid-max-columns-four slideshow-aspect-ratio-169-widescreen slideshow-transition-fade slideshow-autoplay gallery-controls-arrows gallery-controls-color-light meta-priority-date hide-entry-author pre-footer-content-custom show-category-navigation hide-album-share-link event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address event-icalgcal-links event-excerpts event-item-back-link gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop product-list-titles-under product-list-alignment-center product-item-size-11-square product-gallery-size-11-square show-product-price show-product-item-nav tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-light hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-pill medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-raised button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5bd36501eef1a1c658a8dc21 collection-type-index collection-layout-default view-list mobile-style-available logo-image has-banner-image collection-media">
+
+    <div id="site">
+
+      <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden">
+
+      <div id="overlayNav">
+        
+
+  <div id="mobileNavWrapper" class="nav-wrapper">
+    <nav id="mobileNavigation">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#tour-section">
+                        EVENTOS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#band-section">
+                        BIO
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#news-section">
+                        NOTICIAS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#discografa-section">
+                        Lanzamientos
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/discografa-1">
+                DISCOGRAFÍA
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/media">
+                  FOTOS
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                Contacto
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://tiendacepeda.com/">
+              TIENDA 
+            </a>
+          </div>
+          
+
+        
+
+      
+
+
+      
+    </nav>
+  </div>
+
+
+      </div>
+
+      <header id="header" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="title-logo-wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage" class="tmpl-loading logo-image"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540839834327-2NHFDQZIVW3JFDPVP48U/Logo+.png?format=1500w" alt="ANDRÉS CEPEDA"></a></h1>
+            
+          </div><!-- comment the linebreak between these two elements because science
+          --><label for="mobileNavToggle" class="mobile-nav-toggle-label show-on-scroll-mobile"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
+          --><div id="headerNav" class="tmpl-loading positioned" style="margin-left: -56px; margin-top: -41px; margin-bottom: 12px;">
+
+  <div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#tour-section">
+                        EVENTOS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#home-section">
+                        Home
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#band-section">
+                        BIO
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#news-section">
+                        NOTICIAS
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home" style="margin-right: 100px;">
+                      <a href="/#discografa-section">
+                        Lanzamientos
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  Welcome
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection" style="margin-left: 100px;">
+              <a href="/discografa-1">
+                DISCOGRAFÍA
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+            
+              
+              <div class="index active">
+                <a href="/media">
+                  FOTOS
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                Contacto
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="https://tiendacepeda.com/">
+              TIENDA 
+            </a>
+          </div>
+          
+
+        
+
+      
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      <div id="siteWrapper" class="clearfix">
+
+        <!-- Banner -->
+        
+          
+            
+              <!-- nothing to see here, move along -->
+            
+          
+        
+
+        
+        
+
+        <main id="page" role="main">
+          <div id="content" class="main-content" data-content-field="main-content" data-collection-id="5bd36501eef1a1c658a8dc21">
+
+            
+              
+
+              
+            
+
+           <!-- Create index sections -->
+
+  
+  <div id="andres-section" class="index-section gallery" data-url-id="andres" data-collection-id="5ba1650f03ce649decea9312">
+    <div class="index-section-wrapper has-main-media has-main-image" id="yui_3_17_2_1_1662126268482_1512">
+
+      <!-- For Pages -->
+
+      
+
+      <!-- For Galleries -->
+
+      
+      <div class="content gallery-content clear" id="andres-gallery" data-url-id="andres">
+        <div class="content-inner has-content" id="yui_3_17_2_1_1662126268482_1511">
+          
+<div class="index-gallery" id="yui_3_17_2_1_1662126268482_277">
+  <div class="gallery-wrapper  sqs-gallery-design-stacked" id="yui_3_17_2_1_1662126268482_278">
+
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide sqs-active-slide loaded" id="yui_3_17_2_1_1662126268482_298" data-type="image" style="opacity: 1; z-index: 889;">
+        <div class="slide" data-slide-id="5c4b1349c74c505f636af70d" data-slide-url="p83fbnkf1qcg3sud0w0a0z3tfrml9f" style="overflow: hidden;" id="yui_3_17_2_1_1662126268482_1510">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424010186-Z3XR1DLJEC2IJQNR3F9T/WhatsApp+Image+2018-12-16+at+11.31.15+AM+%287%29.jpeg" alt="WhatsApp Image 2018-12-16 at 11.31.15 AM (7).jpeg" /></noscript><img class="load-false loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424010186-Z3XR1DLJEC2IJQNR3F9T/WhatsApp+Image+2018-12-16+at+11.31.15+AM+%287%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424010186-Z3XR1DLJEC2IJQNR3F9T/WhatsApp+Image+2018-12-16+at+11.31.15+AM+%287%29.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c4b1349c74c505f636af70d" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" id="yui_3_17_2_1_1662126268482_1509" alt="WhatsApp Image 2018-12-16 at 11.31.15 AM (7).jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424010186-Z3XR1DLJEC2IJQNR3F9T/WhatsApp+Image+2018-12-16+at+11.31.15+AM+%287%29.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_300" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c4b1357bba223110f83e045" data-slide-url="bmmi94d1snri58jq4mq9zix0w37q21" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424023712-U5EEOKWHDXCX3BPMRTME/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%281%29.jpeg" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (1).jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424023712-U5EEOKWHDXCX3BPMRTME/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%281%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424023712-U5EEOKWHDXCX3BPMRTME/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%281%29.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c4b1357bba223110f83e045" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (1).jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424023712-U5EEOKWHDXCX3BPMRTME/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%281%29.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_302" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c4b13596d2a7343356fa30a" data-slide-url="p12hr4iyn0ih7p9sn61drd2gsi0kx2" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026630-J54MH8NRKQN5FNBTNDGP/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%283%29.jpeg" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (3).jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026630-J54MH8NRKQN5FNBTNDGP/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%283%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026630-J54MH8NRKQN5FNBTNDGP/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%283%29.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c4b13596d2a7343356fa30a" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (3).jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026630-J54MH8NRKQN5FNBTNDGP/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%283%29.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_304" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c4b135903ce64b78cf7f387" data-slide-url="bqc12j26kuk1fgous2i37h5ke9foti" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026743-SJUEXHNA61NHTY8I9BMG/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%284%29.jpeg" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (4).jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026743-SJUEXHNA61NHTY8I9BMG/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%284%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026743-SJUEXHNA61NHTY8I9BMG/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%284%29.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c4b135903ce64b78cf7f387" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (4).jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424026743-SJUEXHNA61NHTY8I9BMG/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%284%29.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_306" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c4b135b40ec9aed508e22bf" data-slide-url="s0883r26wiarlz5tlwtq1j7y5px2nl" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424028459-KDAA433DNHGQQZWCOVRB/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%285%29.jpeg" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (5).jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424028459-KDAA433DNHGQQZWCOVRB/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%285%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424028459-KDAA433DNHGQQZWCOVRB/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%285%29.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c4b135b40ec9aed508e22bf" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (5).jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424028459-KDAA433DNHGQQZWCOVRB/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%285%29.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_308" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c4b1360f950b7df19574e57" data-slide-url="ojvxf5l0vhulkqnnhfxlgi646br20w" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424033492-8NYB9O6JAZGJU4I4N2PL/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%2811%29.jpeg" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (11).jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424033492-8NYB9O6JAZGJU4I4N2PL/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%2811%29.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424033492-8NYB9O6JAZGJU4I4N2PL/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%2811%29.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c4b1360f950b7df19574e57" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" alt="WhatsApp Image 2018-12-16 at 11.31.42 AM (11).jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1548424033492-8NYB9O6JAZGJU4I4N2PL/WhatsApp+Image+2018-12-16+at+11.31.42+AM+%2811%29.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_310" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5be1ddd7562fa7994302025e" data-slide-url="ikzpkr4lqsfaykf6q4oo1pok2l9r23" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529065055-1ZS6KKWHCGZI1RD6BC21/Foto%40davidmicolta_BTSCepedaftYatra_Magia2018_IMG_9341.jpg" alt="Foto@davidmicolta_BTSCepedaftYatra_Magia2018_IMG_9341.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529065055-1ZS6KKWHCGZI1RD6BC21/Foto%40davidmicolta_BTSCepedaftYatra_Magia2018_IMG_9341.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529065055-1ZS6KKWHCGZI1RD6BC21/Foto%40davidmicolta_BTSCepedaftYatra_Magia2018_IMG_9341.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5be1ddd7562fa7994302025e" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899.513px; position: relative;" alt="Foto@davidmicolta_BTSCepedaftYatra_Magia2018_IMG_9341.jpg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529065055-1ZS6KKWHCGZI1RD6BC21/Foto%40davidmicolta_BTSCepedaftYatra_Magia2018_IMG_9341.jpg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_312" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba166c14d7a9c479eda5a73" data-slide-url="fzmz6cag7u8hffbvgma6d671mtqpiu" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304291027-RG0NETBFMLFUBQV4JOET/_MG_7762.jpg" alt="_MG_7762.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304291027-RG0NETBFMLFUBQV4JOET/_MG_7762.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304291027-RG0NETBFMLFUBQV4JOET/_MG_7762.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba166c14d7a9c479eda5a73" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899.513px; position: relative;" alt="_MG_7762.jpg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304291027-RG0NETBFMLFUBQV4JOET/_MG_7762.jpg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_314" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba28717cd83662812f40964" data-slide-url="gt3k9g3bu5es9v30whbqz57616ec77" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378073218-QCGEPXH4ZFTMNZRM7WEH/_RAL3772.jpg" alt="_RAL3772.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378073218-QCGEPXH4ZFTMNZRM7WEH/_RAL3772.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378073218-QCGEPXH4ZFTMNZRM7WEH/_RAL3772.jpg" data-image-dimensions="2500x1495" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba28717cd83662812f40964" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -23.851px; width: 1349px; height: 806.702px; position: relative;" alt="_RAL3772.jpg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378073218-QCGEPXH4ZFTMNZRM7WEH/_RAL3772.jpg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_316" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5be1dcd24d7a9c34ab6c54a6" data-slide-url="70zbm41yc23h9c79mwivpvtddopo0k" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541528806971-XVL8MOD84O96KOZB9262/_MG_8195.jpg" alt="_MG_8195.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541528806971-XVL8MOD84O96KOZB9262/_MG_8195.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541528806971-XVL8MOD84O96KOZB9262/_MG_8195.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5be1dcd24d7a9c34ab6c54a6" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899.513px; position: relative;" alt="_MG_8195.jpg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541528806971-XVL8MOD84O96KOZB9262/_MG_8195.jpg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_318" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdfce7f9619a783ee32e97" data-slide-url="r3foc6zubcu06gqjvmp1on95fxpghp" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226282307-PPFDAKG6XGX9H9SV8OP4/Screen+Shot+2018-05-27+at+1.05.30+PM.png" alt="Screen Shot 2018-05-27 at 1.05.30 PM.png" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226282307-PPFDAKG6XGX9H9SV8OP4/Screen+Shot+2018-05-27+at+1.05.30+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226282307-PPFDAKG6XGX9H9SV8OP4/Screen+Shot+2018-05-27+at+1.05.30+PM.png" data-image-dimensions="1367x909" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdfce7f9619a783ee32e97" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.0154px; width: 1349px; height: 897.031px; position: relative;" alt="Screen Shot 2018-05-27 at 1.05.30 PM.png" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226282307-PPFDAKG6XGX9H9SV8OP4/Screen+Shot+2018-05-27+at+1.05.30+PM.png?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_320" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf83f652deacc5ed876e4" data-slide-url="9u7ec9dd7do02ubddu6j6ee8i6cqhe" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225136510-OWSMC9N5J55982ZNZ1L6/IMG_5054.jpg" alt="IMG_5054.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225136510-OWSMC9N5J55982ZNZ1L6/IMG_5054.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225136510-OWSMC9N5J55982ZNZ1L6/IMG_5054.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf83f652deacc5ed876e4" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899.513px; position: relative;" alt="IMG_5054.jpg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225136510-OWSMC9N5J55982ZNZ1L6/IMG_5054.jpg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_322" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff4190e2e72597e2ba464" data-slide-url="rx7ucc1ub6xg2d8ctlkqz802j9ozdq" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549406334-MQOCFOP87E7AR17G2IO8/WhatsApp+Image+2018-12-10+at+12.33.19+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.33.19 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549406334-MQOCFOP87E7AR17G2IO8/WhatsApp+Image+2018-12-10+at+12.33.19+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549406334-MQOCFOP87E7AR17G2IO8/WhatsApp+Image+2018-12-10+at+12.33.19+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff4190e2e72597e2ba464" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.33.19 PM.jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549406334-MQOCFOP87E7AR17G2IO8/WhatsApp+Image+2018-12-10+at+12.33.19+PM.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_324" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bda08a10e2e72a51f4e331c" data-slide-url="bye2dw4291bckr69lcasmvg3sdgwbi" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015810403-YHDB9WA1X7L7X6AFFTS3/_MG_8049.jpg" alt="_MG_8049.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015810403-YHDB9WA1X7L7X6AFFTS3/_MG_8049.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015810403-YHDB9WA1X7L7X6AFFTS3/_MG_8049.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bda08a10e2e72a51f4e331c" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899.513px; position: relative;" alt="_MG_8049.jpg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015810403-YHDB9WA1X7L7X6AFFTS3/_MG_8049.jpg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_326" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff41ec2241bd3be2cbeb0" data-slide-url="x6j17rxji2lvco8gyh6dihcmozpk6w" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549409495-VJUIEV6H3OU6HFOK5UGC/WhatsApp+Image+2018-12-10+at+12.33.17+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.33.17 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549409495-VJUIEV6H3OU6HFOK5UGC/WhatsApp+Image+2018-12-10+at+12.33.17+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549409495-VJUIEV6H3OU6HFOK5UGC/WhatsApp+Image+2018-12-10+at+12.33.17+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff41ec2241bd3be2cbeb0" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898.982px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.33.17 PM.jpeg" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549409495-VJUIEV6H3OU6HFOK5UGC/WhatsApp+Image+2018-12-10+at+12.33.17+PM.jpeg?format=1500w">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_328" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba1676b0ebbe88ebc29ebbd" data-slide-url="702vumaqusevsfptxx32pgkuhn7cj9" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304430128-0P95UOQUCJQNBE353Y1O/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++218.jpg" alt="Dia de Rock Sep 15 LR @alvarado_foto  218.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304430128-0P95UOQUCJQNBE353Y1O/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++218.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304430128-0P95UOQUCJQNBE353Y1O/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++218.jpg" data-image-dimensions="2000x1335" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba1676b0ebbe88ebc29ebbd" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.7287px; width: 1349px; height: 900px; position: relative;" alt="Dia de Rock Sep 15 LR @alvarado_foto  218.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_330" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5be1def40ebbe887c14f134b" data-slide-url="3jzcj2kvrjm2wdjx3aa6rci5renp68" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529335679-WPZF8XNPXXA7P6PWIVAS/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer205.jpg" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer205.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529335679-WPZF8XNPXXA7P6PWIVAS/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer205.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529335679-WPZF8XNPXXA7P6PWIVAS/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer205.jpg" data-image-dimensions="2500x1531" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5be1def40ebbe887c14f134b" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -33.5638px; width: 1349px; height: 826px; position: relative;" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer205.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_332" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff422352f53494b7b078d" data-slide-url="mysvn4j36jnrzk59mq8st4dkztmibo" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549411382-GKL18QSWATF84KCZGXKH/WhatsApp+Image+2018-12-10+at+12.33.14+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.33.14 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549411382-GKL18QSWATF84KCZGXKH/WhatsApp+Image+2018-12-10+at+12.33.14+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549411382-GKL18QSWATF84KCZGXKH/WhatsApp+Image+2018-12-10+at+12.33.14+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff422352f53494b7b078d" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.33.14 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_334" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5be1def8352f532c5e3b6264" data-slide-url="vrufmfox4uhutjq5aar3fg51tvp710" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529337784-OGMUYTBR0RDUJYDFDK4L/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer240.jpg" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer240.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529337784-OGMUYTBR0RDUJYDFDK4L/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer240.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529337784-OGMUYTBR0RDUJYDFDK4L/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer240.jpg" data-image-dimensions="2500x1556" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5be1def8352f532c5e3b6264" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -40.3088px; width: 1349px; height: 839px; position: relative;" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer240.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_336" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bda095570a6ad46f05a5165" data-slide-url="99d2rofrmaw0clocbj97ls9vi4723m" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015975484-7RG7LZ3UUK5VCQM26IKS/_MG_8344.jpg" alt="_MG_8344.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015975484-7RG7LZ3UUK5VCQM26IKS/_MG_8344.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015975484-7RG7LZ3UUK5VCQM26IKS/_MG_8344.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bda095570a6ad46f05a5165" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899px; position: relative;" alt="_MG_8344.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_338" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff44a562fa712c5ab581a" data-slide-url="tyvfsx4na2iiimrr96bgr69z4sip2b" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549451820-8WTOITV3FGA0U5P1FYB6/WhatsApp+Image+2018-12-10+at+12.31.44+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.31.44 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549451820-8WTOITV3FGA0U5P1FYB6/WhatsApp+Image+2018-12-10+at+12.31.44+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549451820-8WTOITV3FGA0U5P1FYB6/WhatsApp+Image+2018-12-10+at+12.31.44+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff44a562fa712c5ab581a" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.31.44 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_340" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff44c0e2e72597e2ba726" data-slide-url="9cila24inkmobgrgs4yr6f3fcz95ei" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549453137-QS9Z2T370Q1WIV6JPEBK/WhatsApp+Image+2018-12-10+at+12.31.42+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.31.42 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549453137-QS9Z2T370Q1WIV6JPEBK/WhatsApp+Image+2018-12-10+at+12.31.42+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549453137-QS9Z2T370Q1WIV6JPEBK/WhatsApp+Image+2018-12-10+at+12.31.42+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff44c0e2e72597e2ba726" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.31.42 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_342" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba287194ae2371930b3a2b0" data-slide-url="87ifmoh6cvmwfqrn5vb0g8zxw7fiok" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378078245-VKB41VSFSRYCT0XMIPLP/_RAL3687.jpg" alt="_RAL3687.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378078245-VKB41VSFSRYCT0XMIPLP/_RAL3687.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378078245-VKB41VSFSRYCT0XMIPLP/_RAL3687.jpg" data-image-dimensions="2500x1427" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba287194ae2371930b3a2b0" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -5.5046px; width: 1349px; height: 770px; position: relative;" alt="_RAL3687.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_344" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff4564ae237926d024f3d" data-slide-url="taf5p62c7w11w6bmq8b4xuy55c9dd7" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549463109-9A1TZV4L6M94U1J61TCA/WhatsApp+Image+2018-12-10+at+12.31.19+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.31.19 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549463109-9A1TZV4L6M94U1J61TCA/WhatsApp+Image+2018-12-10+at+12.31.19+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549463109-9A1TZV4L6M94U1J61TCA/WhatsApp+Image+2018-12-10+at+12.31.19+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff4564ae237926d024f3d" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.31.19 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_346" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff44fcd8366d5a441882b" data-slide-url="go7eimebxu7dxx55mgqlhfxrr13psb" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549455842-8ARPAS2VZ7YF11411CWJ/WhatsApp+Image+2018-12-10+at+12.31.38+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.31.38 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549455842-8ARPAS2VZ7YF11411CWJ/WhatsApp+Image+2018-12-10+at+12.31.38+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549455842-8ARPAS2VZ7YF11411CWJ/WhatsApp+Image+2018-12-10+at+12.31.38+PM.jpeg" data-image-dimensions="1280x1130" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff44fcd8366d5a441882b" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -215.957px; width: 1349px; height: 1190px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.31.38 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_348" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff457c2241bd3be2cc215" data-slide-url="qmv6gbt77omt0bba6jp10yssvy9enk" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549463333-DKR8JOG6KMLI2MSJOVL6/WhatsApp+Image+2018-12-10+at+12.31.17+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.31.17 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549463333-DKR8JOG6KMLI2MSJOVL6/WhatsApp+Image+2018-12-10+at+12.31.17+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549463333-DKR8JOG6KMLI2MSJOVL6/WhatsApp+Image+2018-12-10+at+12.31.17+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff457c2241bd3be2cc215" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.31.17 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_350" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba16a51aa4a99d687656a9d" data-slide-url="6rrwd6bbjho5bs6mevaom5y57bvyj7" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537305174398-1UORWL5U169VEQ3M58V7/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++239.jpg" alt="Dia de Rock Sep 15 LR @alvarado_foto  239.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537305174398-1UORWL5U169VEQ3M58V7/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++239.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537305174398-1UORWL5U169VEQ3M58V7/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++239.jpg" data-image-dimensions="2000x1335" data-image-focal-point="0.7680412371134021,-0.0019230769230769232" data-load="false" data-image-id="5ba16a51aa4a99d687656a9d" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: 0px; width: 1349px; height: 900px; position: relative;" alt="Dia de Rock Sep 15 LR @alvarado_foto  239.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_352" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff45770a6adc4825f7b08" data-slide-url="j6om6ik655geqr9gpttjhfx5jqrlic" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549464317-D13DIEO140D6ON7VLE5U/WhatsApp+Image+2018-12-10+at+12.31.14+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.31.14 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549464317-D13DIEO140D6ON7VLE5U/WhatsApp+Image+2018-12-10+at+12.31.14+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549464317-D13DIEO140D6ON7VLE5U/WhatsApp+Image+2018-12-10+at+12.31.14+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff45770a6adc4825f7b08" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.31.14 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_354" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bda090488251b33b7b479d0" data-slide-url="odireww3j4psnggujt4t9096yxb1mv" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015892000-UVNKUNI1XWHY70WJTIP9/_MG_8319.jpg" alt="_MG_8319.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015892000-UVNKUNI1XWHY70WJTIP9/_MG_8319.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015892000-UVNKUNI1XWHY70WJTIP9/_MG_8319.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bda090488251b33b7b479d0" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899px; position: relative;" alt="_MG_8319.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_356" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba16665aa4a99d687652ab8" data-slide-url="d6l7lteabdv3foc28409q5ttay6a7n" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304224616-DH8LBRE0U29A4REQYAF0/_MG_7364.jpg" alt="_MG_7364.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304224616-DH8LBRE0U29A4REQYAF0/_MG_7364.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304224616-DH8LBRE0U29A4REQYAF0/_MG_7364.jpg" data-image-dimensions="2500x3750" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba16665aa4a99d687652ab8" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -632.25px; width: 1349px; height: 2023px; position: relative;" alt="_MG_7364.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_358" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba16a1cb8a045239f3d3c7f" data-slide-url="79sg2waqcor1lqh0yw8914iatgqfvq" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537305122771-FQCDA20T532MCFE3QKJK/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++211.jpg" alt="Dia de Rock Sep 15 LR @alvarado_foto  211.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537305122771-FQCDA20T532MCFE3QKJK/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++211.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537305122771-FQCDA20T532MCFE3QKJK/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++211.jpg" data-image-dimensions="2000x1333" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba16a1cb8a045239f3d3c7f" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.0542px; width: 1349px; height: 899px; position: relative;" alt="Dia de Rock Sep 15 LR @alvarado_foto  211.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_360" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf803f4e1fcf7e28d554a" data-slide-url="ph1nrv65zfwofmw7lfckmg2zqpvrat" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225028361-DT5QLKHXPQ8DS2CZ8O7L/WhatsApp+Image+2018-10-20+at+1.09.06+PM.jpeg" alt="WhatsApp Image 2018-10-20 at 1.09.06 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225028361-DT5QLKHXPQ8DS2CZ8O7L/WhatsApp+Image+2018-10-20+at+1.09.06+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225028361-DT5QLKHXPQ8DS2CZ8O7L/WhatsApp+Image+2018-10-20+at+1.09.06+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf803f4e1fcf7e28d554a" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-10-20 at 1.09.06 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_362" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bda08a18a922df9405e7415" data-slide-url="3mr3dj06vwryxgboi0pt99r4vo3epc" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015792682-BOL8TG5QY0JISJIJPU92/_MG_8176.jpg" alt="_MG_8176.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015792682-BOL8TG5QY0JISJIJPU92/_MG_8176.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541015792682-BOL8TG5QY0JISJIJPU92/_MG_8176.jpg" data-image-dimensions="2500x1851" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bda08a18a922df9405e7415" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -119.9px; width: 1349px; height: 998px; position: relative;" alt="_MG_8176.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_364" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf80324a694b32c09747f" data-slide-url="sr0j9jax1fvlu6zc80aa1gtdnsb9xf" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225028350-231574PR1HS7WQ51EDP5/WhatsApp+Image+2018-10-21+at+1.02.19+AM.jpeg" alt="WhatsApp Image 2018-10-21 at 1.02.19 AM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225028350-231574PR1HS7WQ51EDP5/WhatsApp+Image+2018-10-21+at+1.02.19+AM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225028350-231574PR1HS7WQ51EDP5/WhatsApp+Image+2018-10-21+at+1.02.19+AM.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf80324a694b32c09747f" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: -0.166667px; top: 0px; width: 1349px; height: 759px; position: relative;" alt="WhatsApp Image 2018-10-21 at 1.02.19 AM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_366" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba287184fa51aa2fd2ec71c" data-slide-url="sj2v4ohexoncmwyjyv6okvcm5abubu" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378082025-1O61Z68MDOE4D8D7XP4S/_RAL3594.jpg" alt="_RAL3594.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378082025-1O61Z68MDOE4D8D7XP4S/_RAL3594.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378082025-1O61Z68MDOE4D8D7XP4S/_RAL3594.jpg" data-image-dimensions="2500x1360" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba287184fa51aa2fd2ec71c" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: -23.1103px; top: 0px; width: 1395px; height: 759px; position: relative;" alt="_RAL3594.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_368" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf80471c10befb582ee22" data-slide-url="oi5sw4uxbiz2e18ye53lemnm0zqv5d" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225029143-NOWACK5DPCLR0HYHZLER/WhatsApp+Image+2018-10-21+at+10.50.06+AM.jpeg" alt="WhatsApp Image 2018-10-21 at 10.50.06 AM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225029143-NOWACK5DPCLR0HYHZLER/WhatsApp+Image+2018-10-21+at+10.50.06+AM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225029143-NOWACK5DPCLR0HYHZLER/WhatsApp+Image+2018-10-21+at+10.50.06+AM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf80471c10befb582ee22" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-10-21 at 10.50.06 AM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_370" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf801eef1a1d9e1072652" data-slide-url="q661s3fkso2tre98dnnya57rrqafj9" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225026199-TZ95XRUB0EOR3Y01N84U/WhatsApp+Image+2018-10-20+at+12.54.26+PM.jpeg" alt="WhatsApp Image 2018-10-20 at 12.54.26 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225026199-TZ95XRUB0EOR3Y01N84U/WhatsApp+Image+2018-10-20+at+12.54.26+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225026199-TZ95XRUB0EOR3Y01N84U/WhatsApp+Image+2018-10-20+at+12.54.26+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf801eef1a1d9e1072652" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-10-20 at 12.54.26 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_372" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf8041905f4e620c6d97f" data-slide-url="ajb7jkzy2rnxg4n64ullg9tv7a7t7r" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225029497-JR14QOR4KW1G2Z52CGN4/WhatsApp+Image+2018-10-21+at+10.50.08+AM.jpeg" alt="WhatsApp Image 2018-10-21 at 10.50.08 AM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225029497-JR14QOR4KW1G2Z52CGN4/WhatsApp+Image+2018-10-21+at+10.50.08+AM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225029497-JR14QOR4KW1G2Z52CGN4/WhatsApp+Image+2018-10-21+at+10.50.08+AM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf8041905f4e620c6d97f" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-10-21 at 10.50.08 AM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_374" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf806f9619a783ee2e0a2" data-slide-url="sj467uv2tchb272pcjvtddqvbyikc8" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225086880-5S6J8OK7PY6LVHNR958K/IMG_5068.jpg" alt="IMG_5068.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225086880-5S6J8OK7PY6LVHNR958K/IMG_5068.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225086880-5S6J8OK7PY6LVHNR958K/IMG_5068.jpg" data-image-dimensions="2500x1666" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf806f9619a783ee2e0a2" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.9868px; width: 1349px; height: 898px; position: relative;" alt="IMG_5068.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_376" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5be1decf562fa79943021778" data-slide-url="eslfcxgj7b57ob0zmwbuca8p4o4xpq" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529313398-NM6JUAEDLD7X0P32HFA6/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer2.jpg" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529313398-NM6JUAEDLD7X0P32HFA6/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529313398-NM6JUAEDLD7X0P32HFA6/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer2.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5be1decf562fa79943021778" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.5264px; width: 1349px; height: 900px; position: relative;" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer2.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_378" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff4248985833d1f15e876" data-slide-url="c48pjetwoolt9eppchnrg30scj0okq" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549413674-MYVE9AA82M1C1FBGOTYK/WhatsApp+Image+2018-12-10+at+12.33.12+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.33.12 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549413674-MYVE9AA82M1C1FBGOTYK/WhatsApp+Image+2018-12-10+at+12.33.12+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549413674-MYVE9AA82M1C1FBGOTYK/WhatsApp+Image+2018-12-10+at+12.33.12+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff4248985833d1f15e876" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.33.12 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_380" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdf83f9140b748a2756445" data-slide-url="lgu1nzeqa3naqhoyfcsuju0t8hmy1n" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225137452-ACKHAJAGAO0HYWD65EWW/IMG_5036.jpg" alt="IMG_5036.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225137452-ACKHAJAGAO0HYWD65EWW/IMG_5036.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540225137452-ACKHAJAGAO0HYWD65EWW/IMG_5036.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdf83f9140b748a2756445" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899px; position: relative;" alt="IMG_5036.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_382" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff4598985833d1f15eb71" data-slide-url="kdyszgij9w330up2s375mvr3fbmt6y" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549482594-T6N61B7YNVH11WIKMYTY/_MG_7556.jpg" alt="_MG_7556.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549482594-T6N61B7YNVH11WIKMYTY/_MG_7556.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549482594-T6N61B7YNVH11WIKMYTY/_MG_7556.jpg" data-image-dimensions="2473x1647" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff4598985833d1f15eb71" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.7121px; width: 1349px; height: 898px; position: relative;" alt="_MG_7556.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_384" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdfc63a4222f1918287238" data-slide-url="ajcbnc8tg3j09vk6athnpg0kpxpf2w" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226148279-GMYINXD36AYB4HF8K2NN/33899156_10155737349431025_293626143565676544_o.jpg" alt="33899156_10155737349431025_293626143565676544_o.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226148279-GMYINXD36AYB4HF8K2NN/33899156_10155737349431025_293626143565676544_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226148279-GMYINXD36AYB4HF8K2NN/33899156_10155737349431025_293626143565676544_o.jpg" data-image-dimensions="1776x1339" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdfc63a4222f1918287238" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -129.034px; width: 1349px; height: 1017px; position: relative;" alt="33899156_10155737349431025_293626143565676544_o.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_386" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba167952b6a28bda94cd3bb" data-slide-url="xquoat00f1il75palpr059usg8w0gq" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304472320-V42D1JGBIS1PFGL3FKHG/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++227.jpg" alt="Dia de Rock Sep 15 LR @alvarado_foto  227.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304472320-V42D1JGBIS1PFGL3FKHG/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++227.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304472320-V42D1JGBIS1PFGL3FKHG/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++227.jpg" data-image-dimensions="2000x1335" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba167952b6a28bda94cd3bb" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.7287px; width: 1349px; height: 900px; position: relative;" alt="Dia de Rock Sep 15 LR @alvarado_foto  227.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_388" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdfd29f9619a783ee332d9" data-slide-url="bp6ua23ky6ppad0k1bxrlo80pawqzu" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226347663-1MJF0ZIRPJ2OBD2Y3TDL/Andres+Cepeda_Palacio+de+los+deportes+sep+4-Bogota%CC%81+%2827%29.jpg" alt="Andres Cepeda_Palacio de los deportes sep 4-Bogotá (27).jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226347663-1MJF0ZIRPJ2OBD2Y3TDL/Andres+Cepeda_Palacio+de+los+deportes+sep+4-Bogota%CC%81+%2827%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226347663-1MJF0ZIRPJ2OBD2Y3TDL/Andres+Cepeda_Palacio+de+los+deportes+sep+4-Bogota%CC%81+%2827%29.jpg" data-image-dimensions="2500x1369" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdfd29f9619a783ee332d9" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: -18.5241px; top: 0px; width: 1386px; height: 759px; position: relative;" alt="Andres Cepeda_Palacio de los deportes sep 4-Bogotá (27).jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_390" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5be1e137aa4a99f4da26603b" data-slide-url="gtiy3gntnuvk8nkeiuh2g61pecfq9g" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529932212-1LLGPTEYFOQ9DDMBLKCW/Captura+de+pantalla+2018-11-06+a+la%28s%29+1.44.54+p.+m..png" alt="Captura de pantalla 2018-11-06 a la(s) 1.44.54 p. m..png" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529932212-1LLGPTEYFOQ9DDMBLKCW/Captura+de+pantalla+2018-11-06+a+la%28s%29+1.44.54+p.+m..png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529932212-1LLGPTEYFOQ9DDMBLKCW/Captura+de+pantalla+2018-11-06+a+la%28s%29+1.44.54+p.+m..png" data-image-dimensions="2478x1670" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5be1e137aa4a99f4da26603b" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -75.0662px; width: 1349px; height: 909px; position: relative;" alt="Captura de pantalla 2018-11-06 a la(s) 1.44.54 p. m..png">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_392" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5bcdfd60a4222f1918288471" data-slide-url="gp13mp0sgb7pt0d6nrfq7uve5lmaw9" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226407997-ZV1H9IGNMAIY2RTWJW8M/_RAL8212.jpg" alt="_RAL8212.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226407997-ZV1H9IGNMAIY2RTWJW8M/_RAL8212.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540226407997-ZV1H9IGNMAIY2RTWJW8M/_RAL8212.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bcdfd60a4222f1918288471" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899px; position: relative;" alt="_RAL8212.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_394" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff4758a922d3c16899955" data-slide-url="s23udkcxuv3xnp5cg676nzgxdrxx13" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549495990-JJDYWI33QCS86ZPMCSCH/IMG-20181020-WA0047.jpg" alt="IMG-20181020-WA0047.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549495990-JJDYWI33QCS86ZPMCSCH/IMG-20181020-WA0047.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549495990-JJDYWI33QCS86ZPMCSCH/IMG-20181020-WA0047.jpg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff4758a922d3c16899955" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="IMG-20181020-WA0047.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_396" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba28729cd83662812f40a35" data-slide-url="rgqts3wj8v6fytgs7l3926etx8gz3p" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378099776-BTT3OHYC9EF9HVSSCXGX/_RAL3171.jpg" alt="_RAL3171.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378099776-BTT3OHYC9EF9HVSSCXGX/_RAL3171.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537378099776-BTT3OHYC9EF9HVSSCXGX/_RAL3171.jpg" data-image-dimensions="2500x1531" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba28729cd83662812f40a35" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -33.5638px; width: 1349px; height: 826px; position: relative;" alt="_RAL3171.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_398" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="603846334ba2b30cabb49871" data-slide-url="lln22nf8wryauhnit6jxi07os5r3e1" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614300729370-IY7HJLYE0AE0NMCWRQQP/AC+Zipaquira+Jueves++223.jpg" alt="AC Zipaquira Jueves  223.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614300729370-IY7HJLYE0AE0NMCWRQQP/AC+Zipaquira+Jueves++223.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614300729370-IY7HJLYE0AE0NMCWRQQP/AC+Zipaquira+Jueves++223.jpg" data-image-dimensions="2048x1365" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="603846334ba2b30cabb49871" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.0569px; width: 1349px; height: 899px; position: relative;" alt="AC Zipaquira Jueves  223.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_400" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="60384950bcb2de54ccd9780b" data-slide-url="59d4dudv9ybpk39bgpeca63tm5oza2" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301528981-NKMDH383ZWCRRS4Q697H/RAL_6391CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" alt="RAL_6391CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301528981-NKMDH383ZWCRRS4Q697H/RAL_6391CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301528981-NKMDH383ZWCRRS4Q697H/RAL_6391CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image-dimensions="2500x1622" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="60384950bcb2de54ccd9780b" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -58.1156px; width: 1349px; height: 875px; position: relative;" alt="RAL_6391CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_402" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="6038499e52c8593dd6d623ca" data-slide-url="a3d5finm2tcyoe1vsyr1jvd0hevw2z" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301601882-96T8NGWNNPFGQLEBXXVP/RAL_6375CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" alt="RAL_6375CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301601882-96T8NGWNNPFGQLEBXXVP/RAL_6375CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301601882-96T8NGWNNPFGQLEBXXVP/RAL_6375CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image-dimensions="2500x1685" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="6038499e52c8593dd6d623ca" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -75.113px; width: 1349px; height: 909px; position: relative;" alt="RAL_6375CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_404" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff45a4d7a9c52fb9d2d47" data-slide-url="f1q4popj64tsngnax6dit6mmh0av5s" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549595002-3ZKTMXKM7HPOEFXPRQTR/_MG_7772.jpg" alt="_MG_7772.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549595002-3ZKTMXKM7HPOEFXPRQTR/_MG_7772.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549595002-3ZKTMXKM7HPOEFXPRQTR/_MG_7772.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff45a4d7a9c52fb9d2d47" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.2566px; width: 1349px; height: 899px; position: relative;" alt="_MG_7772.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_406" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="60384e621132f7528cd6a3b1" data-slide-url="g36rwsz4bc02ssvvzknnefygsa9ab7" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614302824015-FWQLYPFM1D0VWKGI16YC/RAL_6213CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" alt="RAL_6213CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614302824015-FWQLYPFM1D0VWKGI16YC/RAL_6213CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614302824015-FWQLYPFM1D0VWKGI16YC/RAL_6213CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image-dimensions="2500x1243" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="60384e621132f7528cd6a3b1" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: -88.7743px; top: 0px; width: 1526px; height: 759px; position: relative;" alt="RAL_6213CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_408" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="603849f56899c261fdea4802" data-slide-url="6y3lpzxqzpsy16t9wdar6nixehw1yf" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301708496-SAH0H7EU1ADOEX2LKG26/RAL_7066CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" alt="RAL_7066CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301708496-SAH0H7EU1ADOEX2LKG26/RAL_7066CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614301708496-SAH0H7EU1ADOEX2LKG26/RAL_7066CEPOEDA+EN+TABLAS+LIVE+-SHOW+2CEPEDA+EN+TABLAS+LIVE+-SHOW+2.jpg" data-image-dimensions="2500x1834" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="603849f56899c261fdea4802" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -115.313px; width: 1349px; height: 989px; position: relative;" alt="RAL_7066CEPOEDA EN TABLAS LIVE -SHOW 2CEPEDA EN TABLAS LIVE -SHOW 2.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_410" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5c0ff45221c67c539554053f" data-slide-url="8nous1o8cgslkhru346t99onqsoafa" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549459471-1DQ64770WCWF9QOTZPOS/WhatsApp+Image+2018-12-10+at+12.31.34+PM.jpeg" alt="WhatsApp Image 2018-12-10 at 12.31.34 PM.jpeg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549459471-1DQ64770WCWF9QOTZPOS/WhatsApp+Image+2018-12-10+at+12.31.34+PM.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1544549459471-1DQ64770WCWF9QOTZPOS/WhatsApp+Image+2018-12-10+at+12.31.34+PM.jpeg" data-image-dimensions="1280x853" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5c0ff45221c67c539554053f" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -69.991px; width: 1349px; height: 898px; position: relative;" alt="WhatsApp Image 2018-12-10 at 12.31.34 PM.jpeg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_412" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="6038feda07c1b24e5c6cf551" data-slide-url="3697wthwzaj1xn5f3bmvpu8c36ld6s" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614348000623-BL10RNDRZVAIXBJMH8EO/Concierto+En+tu+Casa+AC+009.jpg" alt="Concierto En tu Casa AC 009.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614348000623-BL10RNDRZVAIXBJMH8EO/Concierto+En+tu+Casa+AC+009.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614348000623-BL10RNDRZVAIXBJMH8EO/Concierto+En+tu+Casa+AC+009.jpg" data-image-dimensions="1600x1067" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="6038feda07c1b24e5c6cf551" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.3072px; width: 1349px; height: 899px; position: relative;" alt="Concierto En tu Casa AC 009.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_414" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5be1dee24ae237643b4d6585" data-slide-url="ho2w5wb7lwpd39srnnq1k1575ub8pl" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529331496-53YAA7PV7CUUIJ8PFSHA/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer182.jpg" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer182.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529331496-53YAA7PV7CUUIJ8PFSHA/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer182.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1541529331496-53YAA7PV7CUUIJ8PFSHA/CEPEDA+EN+TABLAS-+Photo+By+%40ramsesphotographer182.jpg" data-image-dimensions="2500x1668" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5be1dee24ae237643b4d6585" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.5264px; width: 1349px; height: 900px; position: relative;" alt="CEPEDA EN TABLAS- Photo By @ramsesphotographer182.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_416" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="5ba167ab032be45a723f5115" data-slide-url="s2wstogubfr4liocvnntkwtp4d6ijt" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304495344-B3X0X9M96AWFE79FHWZ9/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++238.jpg" alt="Dia de Rock Sep 15 LR @alvarado_foto  238.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304495344-B3X0X9M96AWFE79FHWZ9/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++238.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1537304495344-B3X0X9M96AWFE79FHWZ9/Dia+de+Rock+Sep+15+LR+%40alvarado_foto++238.jpg" data-image-dimensions="2000x1335" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5ba167ab032be45a723f5115" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.7287px; width: 1349px; height: 900px; position: relative;" alt="Dia de Rock Sep 15 LR @alvarado_foto  238.jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_418" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="6038fedaad808704de6c75aa" data-slide-url="pbtrm1v3log0dwhhl0vcrfgk9a0ugu" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614347998875-DM7EBV42C8YS9WRTMF3T/Concierto+En+tu+Casa+AC+005+%281%29.jpg" alt="Concierto En tu Casa AC 005 (1).jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614347998875-DM7EBV42C8YS9WRTMF3T/Concierto+En+tu+Casa+AC+005+%281%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614347998875-DM7EBV42C8YS9WRTMF3T/Concierto+En+tu+Casa+AC+005+%281%29.jpg" data-image-dimensions="1600x1067" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="6038fedaad808704de6c75aa" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.3072px; width: 1349px; height: 899px; position: relative;" alt="Concierto En tu Casa AC 005 (1).jpg">
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide" id="yui_3_17_2_1_1662126268482_420" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="603802d4aea49b4d345c5feb" data-slide-url="2021/2/25/m1881ls7yekdqv6hs4vjke178m7lwj" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614285608673-ELAAU1B7HBO8G368GQ0M/image-asset.jpeg" alt="" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614285608673-ELAAU1B7HBO8G368GQ0M/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614285608673-ELAAU1B7HBO8G368GQ0M/image-asset.jpeg" data-image-dimensions="2048x1365" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="603802d4aea49b4d345c5feb" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.0569px; width: 1349px; height: 899px; position: relative;">
+            
+            <div class="slide-meta has-title tmpl-loading" data-slide-id="603802d4aea49b4d345c5feb">
+              
+              <div class="slide-meta-content">
+                
+                
+                
+              </div>
+              <a class="hide-meta-toggle"></a>
+            </div>
+            
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="slide-wrapper sqs-gallery-design-stacked-slide loaded" id="yui_3_17_2_1_1662126268482_422" data-type="image" style="opacity: 0; z-index: 888;">
+        <div class="slide" data-slide-id="60380fd5100ed85f3bb1f811" data-slide-url="2021/2/25/ozszs3tg9pblewlsurowgflq8wfwpz" style="overflow: hidden;">
+
+          
+
+          
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614286827063-JJPGV3S89XVF2Y6LA3WL/image-asset.jpeg" alt="" /></noscript><img class="load-false loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614286827063-JJPGV3S89XVF2Y6LA3WL/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614286827063-JJPGV3S89XVF2Y6LA3WL/image-asset.jpeg" data-image-dimensions="2048x1365" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="60380fd5100ed85f3bb1f811" data-type="image" data-parent-ratio="1.8" style="font-size: 0px; left: 0px; top: -70.0569px; width: 1349px; height: 899.114px; position: relative;" data-image-resolution="1500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1614286827063-JJPGV3S89XVF2Y6LA3WL/image-asset.jpeg?format=1500w">
+            
+            <div class="slide-meta has-title tmpl-loading" data-slide-id="60380fd5100ed85f3bb1f811">
+              
+              <div class="slide-meta-content">
+                
+                
+                
+              </div>
+              <a class="hide-meta-toggle"></a>
+            </div>
+            
+          
+
+          
+        </div>
+      </div>
+    
+
+  </div>
+
+  
+  <span class="arrow previous-slide"></span>
+  <span class="arrow next-slide"></span>
+  
+
+  <div class="circles gallery-nav multi-image">
+
+    
+      <span class="circle sqs-active-slide"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+      <span class="circle"></span>
+    
+
+  </div>
+
+</div>
+
+
+        </div>
+      </div>
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="instagram-section" class="index-section no-main-image page" data-url-id="instagram" data-collection-id="5ba16ab688251b605ca57d37" data-edit-main-image="Background">
+    <div class="index-section-wrapper" id="yui_3_17_2_1_1662126268482_127">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="instagram-page" data-url-id="instagram">
+          <div class="content-inner has-content" id="yui_3_17_2_1_1662126268482_126">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1647278429598" id="page-5ba16ab688251b605ca57d37"><div class="row sqs-row" id="yui_3_17_2_1_1662126268482_125"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1662126268482_124"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-8f83e5a5ee88598fdab1"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Instagram </h2>
+
+
+</div></div><div class="sqs-block instagram-block sqs-block-instagram" data-block-json="{&quot;title&quot;:true,&quot;thumbnail&quot;:true,&quot;excerpt&quot;:true,&quot;pageSize&quot;:16,&quot;filter&quot;:{},&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;addAccount&quot;:null,&quot;searchTerm&quot;:&quot;&quot;,&quot;searchCollectionId&quot;:&quot;&quot;,&quot;pageCollectionId&quot;:&quot;5ba16ab688251b605ca57d37&quot;,&quot;containingItemId&quot;:null,&quot;connectedAccountId&quot;:&quot;622f78c331a88b7aa202d091&quot;,&quot;enable-search&quot;:false,&quot;enable-search-disabled&quot;:null,&quot;socialCollectionId&quot;:&quot;&quot;,&quot;previewCollectionId&quot;:&quot;&quot;,&quot;status&quot;:&quot;&quot;,&quot;searchId&quot;:&quot;&quot;,&quot;refresh&quot;:null,&quot;newWindow&quot;:true,&quot;unsafeSearch&quot;:null,&quot;search-deprecated-warning&quot;:null,&quot;aspect-ratio&quot;:&quot;square&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;622f78c331a88b7aa202d091&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;lightbox&quot;:false,&quot;padding&quot;:0,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails-per-row&quot;:4,&quot;vSize&quot;:null}" data-block-type="25" id="block-yui_3_17_2_1_1409936761445_76045"><div class="sqs-block-content" id="yui_3_17_2_1_1662126268482_123">
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-square
+  sqs-gallery-thumbnails-per-row-4
+  
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear" data-async-rendering-enabled="true" id="yui_3_17_2_1_1662126268482_1547">
+  <div class="sqs-gallery sqs-gallery-design-grid" id="yui_3_17_2_1_1662126268482_1564">
+    
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="video" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1610">
+              <div class="margin-wrapper">
+                <div class="
+                    content-wrapper
+                    content-fill
+                    
+                  ">
+                  
+                  <div class="sqs-video-wrapper video-fill" data-html="<iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/Ch46u73gYjZ/embed/&quot;></iframe>" data-provider-name="" id="yui_3_17_2_1_1662126268482_1727" style="opacity: 1;"><div class="sqs-video-overlay" style="opacity: 1; overflow: hidden;" id="yui_3_17_2_1_1662126268482_1744"><img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661877949303-O1F90BGKL6TVQCYDAQQX/image-asset.jpeg" data-image-dimensions="720x406" data-image-focal-point="0.5,0.5" data-parent-ratio="1.0" style="font-size: 0px; left: -97.835px; top: 0px; width: 448.67px; height: 253px; position: relative;" class="" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661877949303-O1F90BGKL6TVQCYDAQQX/image-asset.jpeg?format=500w"><div class="sqs-video-opaque"> </div><div class="sqs-video-icon" tabindex="0" role="button" aria-label="Jugar"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1611">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/Ch3EcGtAInd/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661814513840-92ECFLKLFQPOOSTUFURT/image-asset.jpeg" alt="&amp;iexcl;#Boston, nuestra gira #LaRutaP&amp;uacute;rpura llega este 5 de noviembre a @citywinerybos! 
+Recuerden que estas y todas las entradas para nuestros shows pueden encontrarlas en andrescepeda.com.co" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661814513840-92ECFLKLFQPOOSTUFURT/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661814513840-92ECFLKLFQPOOSTUFURT/image-asset.jpeg" data-image-dimensions="1440x1440" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="630d46f16143614209e3f9bb" data-type="image" style="opacity: 0; left: 0px; top: 0px; width: 253px; height: 253px; position: relative;" data-parent-ratio="1.0" alt="&amp;iexcl;#Boston, nuestra gira #LaRutaP&amp;uacute;rpura llega este 5 de noviembre a @citywinerybos! 
+Recuerden que estas y todas las entradas para nuestros shows pueden encontrarlas en andrescepeda.com.co" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661814513840-92ECFLKLFQPOOSTUFURT/image-asset.jpeg?format=300w">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1612">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/ChyRCkRAtoE/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661654592487-2H2YJ7XZ9DN64MW3XSKJ/image-asset.jpeg" alt="&amp;iexcl;Amor incondicional ❤️💛❤️#Dorita! H&amp;aacute;blame de tu v&amp;iacute;nculo con tu mascota&amp;hellip;. Y menci&amp;oacute;nala. Te leo&amp;hellip;" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661654592487-2H2YJ7XZ9DN64MW3XSKJ/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661654592487-2H2YJ7XZ9DN64MW3XSKJ/image-asset.jpeg" data-image-dimensions="1440x1666" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="630ad64088e44e64db971121" data-type="image" style="opacity: 0; left: 0px; top: -19.8535px; width: 253px; height: 292px; position: relative;" data-parent-ratio="1.0" alt="&amp;iexcl;Amor incondicional ❤️💛❤️#Dorita! H&amp;aacute;blame de tu v&amp;iacute;nculo con tu mascota&amp;hellip;. Y menci&amp;oacute;nala. Te leo&amp;hellip;">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="video" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1613">
+              <div class="margin-wrapper">
+                <div class="
+                    content-wrapper
+                    content-fill
+                    
+                  ">
+                  
+                  <div class="sqs-video-wrapper video-fill" data-html="<iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/ChvtImNATKm/embed/&quot;></iframe>" data-provider-name="" style="opacity: 1;" id="yui_3_17_2_1_1662126268482_1782"><div class="sqs-video-overlay" style="opacity: 1; overflow: hidden;" id="yui_3_17_2_1_1662126268482_1799"><img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661571033531-CAG4TN2ID6T3ZUX2IXZS/image-asset.jpeg" data-image-dimensions="720x406" data-image-focal-point="0.5,0.5" data-parent-ratio="1.0" style="font-size: 0px; left: -97.835px; top: 0px; width: 448.67px; height: 253px; position: relative;" class="" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661571033531-CAG4TN2ID6T3ZUX2IXZS/image-asset.jpeg?format=500w"><div class="sqs-video-opaque"> </div><div class="sqs-video-icon" tabindex="0" role="button" aria-label="Jugar"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1614">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/Chu_3DOgiG0/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661542316421-JL29P9WE14VH7SJR9PBM/image-asset.jpeg" alt="Muchas veces he dado conciertos en el formato #Sinf&amp;oacute;nico pero nunca me he animado a grabar un &amp;aacute;lbum as&amp;iacute;. &amp;iquest;Les gustar&amp;iacute;a que realizara este proyecto? &amp;iexcl;Los leo!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661542316421-JL29P9WE14VH7SJR9PBM/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661542316421-JL29P9WE14VH7SJR9PBM/image-asset.jpeg" data-image-dimensions="852x852" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="63091fac6e70a66a854481d5" data-type="image" style="opacity: 0; left: 0px; top: 0px; width: 253px; height: 253px; position: relative;" data-parent-ratio="1.0" alt="Muchas veces he dado conciertos en el formato #Sinf&amp;oacute;nico pero nunca me he animado a grabar un &amp;aacute;lbum as&amp;iacute;. &amp;iquest;Les gustar&amp;iacute;a que realizara este proyecto? &amp;iexcl;Los leo!">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1615">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/ChswjnqgSx_/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661482485012-6WVYVDMVP5FEKY9XVA8F/image-asset.jpeg" alt="&amp;iexcl;#TBT en el set del v&amp;iacute;deo de #ElCarpintero por all&amp;aacute; en 2002!" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661482485012-6WVYVDMVP5FEKY9XVA8F/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661482485012-6WVYVDMVP5FEKY9XVA8F/image-asset.jpeg" data-image-dimensions="1120x1120" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="630835f451be3e100046c5b4" data-type="image" style="opacity: 0; left: 0px; top: 0px; width: 253px; height: 253px; position: relative;" data-parent-ratio="1.0" alt="&amp;iexcl;#TBT en el set del v&amp;iacute;deo de #ElCarpintero por all&amp;aacute; en 2002!">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1616">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/ChsppXSg6Gs/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661466099829-72LZKGKSJI5FZ2SABHI9/image-asset.jpeg" alt="Gracias por invitarme a ser parte de #EfectoColectivo.
+Para mi es un honor contar mi historia y poder ser un embajador del programa #J&amp;oacute;venesResilientes.
+
+@acdivoca_colombia #USAIDColombia" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661466099829-72LZKGKSJI5FZ2SABHI9/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661466099829-72LZKGKSJI5FZ2SABHI9/image-asset.jpeg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="6307f5f225fb15044355086a" data-type="image" style="opacity: 0; left: -63.25px; top: 0px; width: 379px; height: 253px; position: relative;" data-parent-ratio="1.0" alt="Gracias por invitarme a ser parte de #EfectoColectivo.
+Para mi es un honor contar mi historia y poder ser un embajador del programa #J&amp;oacute;venesResilientes.
+
+@acdivoca_colombia #USAIDColombia">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="video" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1617">
+              <div class="margin-wrapper">
+                <div class="
+                    content-wrapper
+                    content-fill
+                    
+                  ">
+                  
+                  <div class="sqs-video-wrapper video-fill" data-html="<iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/ChnuSioAgGu/embed/&quot;></iframe>" data-provider-name="" style="opacity: 1;" id="yui_3_17_2_1_1662126268482_1836"><div class="sqs-video-overlay" style="opacity: 1; overflow: hidden;" id="yui_3_17_2_1_1662126268482_1853"><img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661300356114-T7T8P7YPA5AZ30RSBDW1/image-asset.jpeg" data-image-dimensions="1170x2080" data-image-focal-point="0.5,0.5" data-parent-ratio="1.0" style="font-size: 0px; left: 0px; top: -98.3889px; width: 253px; height: 449.778px; position: relative;" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661300356114-T7T8P7YPA5AZ30RSBDW1/image-asset.jpeg?format=300w"><div class="sqs-video-opaque"> </div><div class="sqs-video-icon" tabindex="0" role="button" aria-label="Jugar"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="video" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1618">
+              <div class="margin-wrapper">
+                <div class="
+                    content-wrapper
+                    content-fill
+                    
+                  ">
+                  
+                  <div class="sqs-video-wrapper video-fill" data-html="<iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/ChgKhDHgLep/embed/&quot;></iframe>" data-provider-name="" style="opacity: 1;" id="yui_3_17_2_1_1662126268482_1890"><div class="sqs-video-overlay" style="opacity: 1; overflow: hidden;" id="yui_3_17_2_1_1662126268482_1907"><img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661046052703-D1ZUP5BQRH6N2A7MMDK0/image-asset.jpeg" data-image-dimensions="720x408" data-image-focal-point="0.5,0.5" data-parent-ratio="1.0" style="font-size: 0px; left: -96.7353px; top: 0px; width: 446.471px; height: 253px; position: relative;" class="" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1661046052703-D1ZUP5BQRH6N2A7MMDK0/image-asset.jpeg?format=500w"><div class="sqs-video-opaque"> </div><div class="sqs-video-icon" tabindex="0" role="button" aria-label="Jugar"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1619">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/ChdPqjYgWyf/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660954519956-PFEDHV4QTMWA48GJS3AD/image-asset.jpeg" alt="Nuestra gira #LaRutaP&amp;uacute;rpura empieza el recorrido en el magn&amp;iacute;fico @carnegiehall.
+
+🎟 disponibles en andrescepeda.com.co/live 
+
+&amp;iquest;Ya tienen sus entradas para nuestros shows?" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660954519956-PFEDHV4QTMWA48GJS3AD/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660954519956-PFEDHV4QTMWA48GJS3AD/image-asset.jpeg" data-image-dimensions="1440x1440" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="63002797e1746b105ee2904e" data-type="image" style="opacity: 0; left: 0px; top: 0px; width: 253px; height: 253px; position: relative;" data-parent-ratio="1.0" alt="Nuestra gira #LaRutaP&amp;uacute;rpura empieza el recorrido en el magn&amp;iacute;fico @carnegiehall.
+
+🎟 disponibles en andrescepeda.com.co/live 
+
+&amp;iquest;Ya tienen sus entradas para nuestros shows?">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="video" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1620">
+              <div class="margin-wrapper">
+                <div class="
+                    content-wrapper
+                    content-fill
+                    
+                  ">
+                  
+                  <div class="sqs-video-wrapper video-fill" data-html="<iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/ChYBReoAjhX/embed/&quot;></iframe>" data-provider-name="" style="opacity: 1;" id="yui_3_17_2_1_1662126268482_1944"><div class="sqs-video-overlay" style="opacity: 1; overflow: hidden;" id="yui_3_17_2_1_1662126268482_1961"><img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660775611023-0J0R1KW8TETG35QAVG32/image-asset.jpeg" data-image-dimensions="720x408" data-image-focal-point="0.5,0.5" data-parent-ratio="1.0" style="font-size: 0px; left: -96.7353px; top: 0px; width: 446.471px; height: 253px; position: relative;" class="" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660775611023-0J0R1KW8TETG35QAVG32/image-asset.jpeg?format=500w"><div class="sqs-video-opaque"> </div><div class="sqs-video-icon" tabindex="0" role="button" aria-label="Jugar"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1621">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/ChU-t5Au_e0/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660672714883-CM3O34S8090GOGT1ONE5/image-asset.jpeg" alt="Gracias Medell&amp;iacute;n por agotar la boleter&amp;iacute;a para nuestro #MeImportasTour. &amp;iexcl;Gracias por hacerme sentir siempre como en casa! 
+Nos vemos este 17 de septiembre para cantar juntos.
+Entradas para #Bogot&amp;aacute;, #Barranquilla, #Cali y #Pe" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660672714883-CM3O34S8090GOGT1ONE5/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660672714883-CM3O34S8090GOGT1ONE5/image-asset.jpeg" data-image-dimensions="1349x1687" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="62fbdaca78b1d32e919ff074" data-type="image" style="opacity: 0; left: 0px; top: -31.6953px; width: 253px; height: 316px; position: relative;" data-parent-ratio="1.0" alt="Gracias Medell&amp;iacute;n por agotar la boleter&amp;iacute;a para nuestro #MeImportasTour. &amp;iexcl;Gracias por hacerme sentir siempre como en casa! 
+Nos vemos este 17 de septiembre para cantar juntos.
+Entradas para #Bogot&amp;aacute;, #Barranquilla, #Cali y #Pe">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1622">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/ChSQRTpAAug/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660580712299-MVCFTXBNQ6WGMFQ049LJ/image-asset.jpeg" alt="&amp;ldquo;&amp;hellip;hay algo que me pas&amp;oacute;/contigo yo siento de todo/yo siento de todo contigo&amp;hellip;&amp;rdquo; @elisarepo &amp;iexcl;Feliz lunes festivo lleno de amor y m&amp;uacute;sica para todos! ❤️🎼" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660580712299-MVCFTXBNQ6WGMFQ049LJ/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660580712299-MVCFTXBNQ6WGMFQ049LJ/image-asset.jpeg" data-image-dimensions="1440x1800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="62fa736742fd2f39ae493786" data-type="image" style="opacity: 0; left: 0px; top: -31.625px; width: 253px; height: 316px; position: relative;" data-parent-ratio="1.0" alt="&amp;ldquo;&amp;hellip;hay algo que me pas&amp;oacute;/contigo yo siento de todo/yo siento de todo contigo&amp;hellip;&amp;rdquo; @elisarepo &amp;iexcl;Feliz lunes festivo lleno de amor y m&amp;uacute;sica para todos! ❤️🎼">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="video" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1623">
+              <div class="margin-wrapper">
+                <div class="
+                    content-wrapper
+                    content-fill
+                    
+                  ">
+                  
+                  <div class="sqs-video-wrapper video-fill" data-html="<iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/ChPrTYGAkd_/embed/&quot;></iframe>" data-provider-name="" style="opacity: 1;" id="yui_3_17_2_1_1662126268482_1998"><div class="sqs-video-overlay" style="opacity: 1; overflow: hidden;" id="yui_3_17_2_1_1662126268482_2015"><img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660494765688-DBYZJNDKQHSJWCEDJNCY/image-asset.jpeg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" data-parent-ratio="1.0" style="font-size: 0px; left: 0px; top: -98.3889px; width: 253px; height: 449.778px; position: relative;" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660494765688-DBYZJNDKQHSJWCEDJNCY/image-asset.jpeg?format=300w"><div class="sqs-video-opaque"> </div><div class="sqs-video-icon" tabindex="0" role="button" aria-label="Jugar"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="image" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1624">
+              <div class="margin-wrapper">
+                
+                <a href="https://www.instagram.com/p/ChN9ce5gK2l/" target="_blank" class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  " style="overflow: hidden;">
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660444829786-BI419FCJKQBBLXIBG31H/image-asset.jpeg" alt="#Repost @hola_col with @use.repost
+・・・
+Ellos son los hermanos y c&amp;oacute;mplices de @andrescepeda 
+Cu&amp;eacute;ntanos de tus hermanos. &amp;iquest;C&amp;oacute;mo son ellos?
+&amp;mdash;Mis cuatro hermanos, Consuelo, Santiago, Samuel y Meca, son excelentes personas" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660444829786-BI419FCJKQBBLXIBG31H/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660444829786-BI419FCJKQBBLXIBG31H/image-asset.jpeg" data-image-dimensions="1440x1457" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="62f8609dc70d9f3cff8d0982" data-type="image" style="opacity: 0; left: 0px; top: -1.4934px; width: 253px; height: 255px; position: relative;" data-parent-ratio="1.0" alt="#Repost @hola_col with @use.repost
+・・・
+Ellos son los hermanos y c&amp;oacute;mplices de @andrescepeda 
+Cu&amp;eacute;ntanos de tus hermanos. &amp;iquest;C&amp;oacute;mo son ellos?
+&amp;mdash;Mis cuatro hermanos, Consuelo, Santiago, Samuel y Meca, son excelentes personas">
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide sqs-gallery-design-grid-slide" data-type="video" data-animation-role="image" id="yui_3_17_2_1_1662126268482_1625">
+              <div class="margin-wrapper">
+                <div class="
+                    content-wrapper
+                    content-fill
+                    
+                  ">
+                  
+                  <div class="sqs-video-wrapper video-fill" data-html="<iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/ChLCKE-AdBz/embed/&quot;></iframe>" data-provider-name="" style="opacity: 1;" id="yui_3_17_2_1_1662126268482_2052"><div class="sqs-video-overlay" style="opacity: 1; overflow: hidden;" id="yui_3_17_2_1_1662126268482_2069"><img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660338508869-YO3AFPO12K0G1L45LB11/image-asset.jpeg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" data-parent-ratio="1.0" style="font-size: 0px; left: 0px; top: -98.3889px; width: 253px; height: 449.778px; position: relative;" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1660338508869-YO3AFPO12K0G1L45LB11/image-asset.jpeg?format=300w"><div class="sqs-video-opaque"> </div><div class="sqs-video-icon" tabindex="0" role="button" aria-label="Jugar"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-yui_3_17_2_1_1409936761445_76045 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -0px; }
+#block-yui_3_17_2_1_1409936761445_76045 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 0px; margin-bottom: 0px; }
+</style>
+
+
+
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+          </div>
+        </main>
+
+        <div id="preFooter">
+          <div class="pre-footer-inner with-custom">
+  <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Contenido del pre-pie de página" data-type="block-field" data-updated-on="1541038820711" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1541037769208_33763"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-small social-icons-style-regular ">
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/andrescepeda/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/andrescepedaoficial/?ref=bookmarks" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="Nico Gallego Torres">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/andrescepeda" target="_blank" class="sqs-svg-icon--wrapper twitter" aria-label="Andrés Cepeda">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.youtube.com/channel/UCHkLu9m9qA7uu5jwMefB2dA" target="_blank" class="sqs-svg-icon--wrapper youtube" aria-label="Andrés Cepeda En Vivo">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#youtube-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#youtube-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://itunes.apple.com/co/artist/andres-cepeda/id139985795" target="_blank" class="sqs-svg-icon--wrapper itunes" aria-label="iTunes Store">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#itunes-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#itunes-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6?si=aAPE-z5rQP2XNw-haU0i9w" target="_blank" class="sqs-svg-icon--wrapper spotify-unauth" aria-label="Spotify">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#spotify-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#spotify-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.tiktok.com/@andrescepedamusica?lang=en&amp;source=app" target="_blank" class="sqs-svg-icon--wrapper tiktok-unauth" aria-label="TikTok">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#tiktok-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#tiktok-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+</div>
+
+        </div>
+
+        <footer id="footer" role="contentinfo">
+          <div class="footer-inner" id="yui_3_17_2_1_1662126268482_91">
+            <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Volver arriba</a></div></nav></div>
+            
+
+
+            
+            <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Contenido del pie de página" data-type="block-field" data-updated-on="1541037207966" id="footerBlocks"><div class="row sqs-row" id="yui_3_17_2_1_1662126268482_90"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1662126268482_89"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-aspect-ratio="37.28813559322034" data-block-type="5" id="block-yui_3_17_2_1_1540841082406_4098"><div class="sqs-block-content" id="yui_3_17_2_1_1662126268482_88">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        " data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1662126268482_87">
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            " style="max-width:118px;" id="yui_3_17_2_1_1662126268482_86">
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="/welcome" id="yui_3_17_2_1_1662126268482_85">
+            
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1662126268482_84">
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:37.28813552856445%;
+                
+                overflow: hidden;
+              " id="yui_3_17_2_1_1662126268482_83">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png" alt="Logo .png" /></noscript><img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png" data-image="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png" data-image-dimensions="118x44" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5bd75e921905f4f40ec23190" data-type="image" style="left: 0%; top: 0%; width: 100%; height: 100%; position: absolute;" alt="Logo .png" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5ba161f245776eeed1027ece/1540841131093-434LEMKZBDPDKBQDR374/Logo+.png?format=300w">
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+          </div>
+        </footer>
+
+        
+
+      </div>
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"></path></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"></path></symbol><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"></path></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"></path></symbol><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"></path></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"></path></symbol><symbol id="youtube-icon" viewBox="0 0 64 64"><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"></path></symbol><symbol id="youtube-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z"></path></symbol><symbol id="itunes-icon" viewBox="0 0 64 64"><path d="M41.784,28.836c0,3.5,0.002,7-0.002,10.499c0,0.767-0.105,1.519-0.446,2.217c-0.53,1.086-1.399,1.768-2.55,2.095c-0.642,0.183-1.297,0.288-1.965,0.318c-1.749,0.083-3.261-1.103-3.574-2.823c-0.26-1.419,0.419-2.984,1.91-3.715c0.595-0.294,1.23-0.458,1.871-0.596c0.695-0.15,1.393-0.282,2.084-0.441c0.504-0.116,0.84-0.424,0.939-0.948c0.023-0.116,0.033-0.236,0.033-0.355c0.002-3.336,0.002-6.67-0.002-10.005c0-0.114-0.019-0.23-0.047-0.34c-0.072-0.277-0.274-0.446-0.559-0.43c-0.294,0.017-0.584,0.064-0.873,0.122c-1.397,0.275-2.793,0.559-4.189,0.84c-1.425,0.286-2.851,0.576-4.278,0.864c-0.842,0.171-1.684,0.34-2.525,0.51c-0.03,0.006-0.059,0.016-0.088,0.023c-0.509,0.141-0.693,0.374-0.717,0.9c-0.003,0.08-0.002,0.16-0.002,0.241c-0.002,4.782,0,9.565-0.003,14.345c0,0.773-0.086,1.537-0.396,2.255c-0.512,1.18-1.416,1.914-2.636,2.269c-0.645,0.186-1.307,0.293-1.976,0.316c-1.762,0.066-3.225-1.105-3.527-2.838c-0.261-1.494,0.422-3.098,2.119-3.816c0.656-0.275,1.344-0.427,2.036-0.571c0.527-0.111,1.056-0.211,1.582-0.324c0.703-0.153,1.07-0.595,1.1-1.313c0.003-0.094,0.002-0.183,0.002-0.277c0-5.44,0-10.882,0.003-16.323c0-0.227,0.023-0.46,0.077-0.681c0.128-0.524,0.502-0.823,1.003-0.953c0.469-0.122,0.947-0.207,1.422-0.304c1.347-0.272,2.694-0.543,4.042-0.814c1.393-0.282,2.784-0.562,4.176-0.843c1.23-0.249,2.46-0.501,3.693-0.743c0.404-0.08,0.814-0.161,1.22-0.194c0.57-0.045,0.961,0.313,1.019,0.886c0.014,0.136,0.022,0.274,0.022,0.412C41.786,21.814,41.786,25.325,41.784,28.836L41.784,28.836z"></path></symbol><symbol id="itunes-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M41.783,39.335c0,0.767-0.105,1.519-0.446,2.217c-0.53,1.086-1.399,1.768-2.55,2.095c-0.641,0.183-1.297,0.288-1.965,0.318c-1.749,0.083-3.261-1.103-3.574-2.823c-0.26-1.419,0.419-2.984,1.911-3.715c0.595-0.294,1.23-0.458,1.871-0.596c0.695-0.15,1.393-0.282,2.084-0.441c0.504-0.116,0.84-0.424,0.939-0.948c0.023-0.116,0.033-0.236,0.033-0.355c0.002-3.336,0.002-6.67-0.002-10.005c0-0.114-0.019-0.23-0.047-0.34c-0.072-0.277-0.274-0.446-0.559-0.43c-0.294,0.017-0.584,0.064-0.873,0.122c-1.397,0.275-2.793,0.559-4.189,0.84c-1.425,0.286-2.851,0.576-4.278,0.864c-0.842,0.171-1.684,0.34-2.525,0.51c-0.03,0.006-0.059,0.016-0.088,0.023c-0.509,0.141-0.693,0.374-0.717,0.9c-0.003,0.08-0.002,0.16-0.002,0.241c-0.002,4.782,0,9.565-0.003,14.345c0,0.773-0.086,1.536-0.396,2.255c-0.512,1.18-1.416,1.914-2.636,2.269c-0.645,0.186-1.307,0.293-1.976,0.316c-1.762,0.066-3.225-1.105-3.527-2.838c-0.261-1.494,0.422-3.098,2.119-3.816c0.656-0.275,1.344-0.427,2.036-0.571c0.527-0.111,1.056-0.211,1.582-0.324c0.703-0.153,1.07-0.595,1.1-1.313c0.003-0.094,0.002-0.183,0.002-0.277c0-5.44,0-10.882,0.003-16.323c0-0.227,0.023-0.46,0.077-0.681c0.128-0.524,0.502-0.823,1.003-0.953c0.469-0.122,0.947-0.207,1.422-0.304c1.347-0.272,2.694-0.543,4.042-0.814c1.393-0.282,2.784-0.562,4.176-0.843c1.23-0.249,2.46-0.501,3.693-0.743c0.404-0.08,0.814-0.161,1.22-0.194c0.57-0.045,0.961,0.313,1.019,0.886c0.014,0.136,0.022,0.274,0.022,0.411c0.003,3.513,0.003,7.024,0.002,10.535C41.784,32.336,41.786,35.836,41.783,39.335z"></path></symbol><symbol id="spotify-unauth-icon" viewBox="0 0 64 64"><path d="M32,16c-8.8,0-16,7.2-16,16c0,8.8,7.2,16,16,16c8.8,0,16-7.2,16-16C48,23.2,40.8,16,32,16 M39.3,39.1c-0.3,0.5-0.9,0.6-1.4,0.3c-3.8-2.3-8.5-2.8-14.1-1.5c-0.5,0.1-1.1-0.2-1.2-0.7c-0.1-0.5,0.2-1.1,0.8-1.2 c6.1-1.4,11.3-0.8,15.5,1.8C39.5,38,39.6,38.6,39.3,39.1 M41.3,34.7c-0.4,0.6-1.1,0.8-1.7,0.4c-4.3-2.6-10.9-3.4-15.9-1.9 c-0.7,0.2-1.4-0.2-1.6-0.8c-0.2-0.7,0.2-1.4,0.8-1.6c5.8-1.8,13-0.9,18,2.1C41.5,33.4,41.7,34.1,41.3,34.7 M41.5,30.2 c-5.2-3.1-13.7-3.3-18.6-1.9c-0.8,0.2-1.6-0.2-1.9-1c-0.2-0.8,0.2-1.6,1-1.9c5.7-1.7,15-1.4,21,2.1c0.7,0.4,0.9,1.3,0.5,2.1 C43.1,30.4,42.2,30.6,41.5,30.2"></path></symbol><symbol id="spotify-unauth-mask" viewBox="0 0 64 64"><path d="M39,37.7c-4.2-2.6-9.4-3.2-15.5-1.8c-0.5,0.1-0.9,0.7-0.8,1.2c0.1,0.5,0.7,0.9,1.2,0.7c5.6-1.3,10.3-0.8,14.1,1.5 c0.5,0.3,1.1,0.1,1.4-0.3C39.6,38.6,39.5,38,39,37.7z M40.9,33c-4.9-3-12.2-3.9-18-2.1c-0.7,0.2-1,0.9-0.8,1.6 c0.2,0.7,0.9,1,1.6,0.8c5.1-1.5,11.6-0.8,15.9,1.9c0.6,0.4,1.4,0.2,1.7-0.4C41.7,34.1,41.5,33.4,40.9,33z M0,0v64h64V0H0z M32,48 c-8.8,0-16-7.2-16-16c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16C48,40.8,40.8,48,32,48z M43,27.6c-5.9-3.5-15.3-3.9-21-2.1 c-0.8,0.2-1.2,1.1-1,1.9c0.2,0.8,1.1,1.2,1.9,1c4.9-1.5,13.4-1.2,18.6,1.9c0.7,0.4,1.6,0.2,2.1-0.5C43.9,29,43.7,28,43,27.6z"></path></symbol><symbol id="tiktok-unauth-icon" viewBox="0 0 64 64"><path d="M37.9281 17C38.4298 21.2545 40.825 23.7941 45 24.0658V28.8451C42.5859 29.0794 40.4652 28.3016 38.0038 26.821V35.7423C38.0038 47.147 25.4788 50.7361 20.4233 42.5457C17.1856 37.3073 19.1642 28.1048 29.5496 27.73V32.781C28.7296 32.9058 27.9219 33.1002 27.1355 33.362C24.835 34.1398 23.5191 35.583 23.8883 38.1413C24.5889 43.033 33.6584 44.4856 32.901 34.9176V17H37.9091H37.9281Z"></path></symbol><symbol id="tiktok-unauth-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0V64H64V0ZM45.44 23.54C41 23.25 38.5 20.54 38 16H32.68V35.12C33.48 45.33 23.9 43.78 23.16 38.56C22.78 35.83 24.16 34.29 26.6 33.46C27.4272 33.1806 28.2771 32.9732 29.14 32.84V27.45C18.18 27.85 16.08 37.67 19.5 43.26C24.82 52 38.05 48.17 38.05 36V26.48C40.65 28.06 42.89 28.89 45.44 28.64V23.54Z"></path></symbol></svg>
+
+  
+
+</body></html>
